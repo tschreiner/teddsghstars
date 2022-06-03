@@ -60,12 +60,14 @@
 
 ## HTML 
 
+- [tayfun57/tayfun57.github.io](https://github.com/tayfun57/tayfun57.github.io) - Github Pages für meine Portfolio Webseite
 - [dsccommunity/dsccommunity.org](https://github.com/dsccommunity/dsccommunity.org) - DSC community organisation's website
 - [mxk/win10-secure-baseline-gpo](https://github.com/mxk/win10-secure-baseline-gpo) - Windows 10 and Server 2016 Secure Baseline Group Policy
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Java 
 
+- [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
@@ -166,6 +168,7 @@
 
 ## Shell 
 
+- [camunda/docker-camunda-bpm-platform](https://github.com/camunda/docker-camunda-bpm-platform) - Docker images for the camunda BPM platform
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
