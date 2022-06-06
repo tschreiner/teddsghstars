@@ -327,6 +327,7 @@
 
 ## others 
 
+- [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - 
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [MattFlood7/LinkedInBot](https://github.com/MattFlood7/LinkedInBot) - 👾 LinkedIn bot to help increase profile visibility to increase return in profile views, interviews, connections, etc.
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
