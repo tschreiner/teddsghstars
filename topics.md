@@ -25,6 +25,7 @@
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
+- [documentation](#documentation)
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
@@ -61,6 +62,7 @@
 - [r](#r)
 - [react](#react)
 - [reactjs](#reactjs)
+- [rest-api](#rest-api)
 - [ruby](#ruby)
 - [sass](#sass)
 - [scikit-learn](#scikit-learn)
@@ -91,6 +93,7 @@
 
 ## api 
 
+- [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
 ## automation 
@@ -180,6 +183,10 @@
 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
+
+## documentation 
+
+- [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 
 ## flask 
 
@@ -327,6 +334,7 @@
 
 ## others 
 
+- [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [MattFlood7/LinkedInBot](https://github.com/MattFlood7/LinkedInBot) - 👾 LinkedIn bot to help increase profile visibility to increase return in profile views, interviews, connections, etc.
@@ -433,6 +441,10 @@
 ## reactjs 
 
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
+
+## rest-api 
+
+- [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 
 ## ruby 
 
