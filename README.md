@@ -31,6 +31,7 @@
 
 ## Batchfile 
 
+- [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
 - [aghorler/Windows-10-Hardening](https://github.com/aghorler/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
 
 ## Bicep 
@@ -107,6 +108,7 @@
 
 ## Others 
 
+- [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [jsonresume/vscode-jsonresume](https://github.com/jsonresume/vscode-jsonresume) - JSONResume creation, validation, and code completion in VSCode
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
@@ -135,6 +137,17 @@
 
 ## PowerShell 
 
+- [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
+- [SSWConsulting/SSWSysAdmins.CreateADUser](https://github.com/SSWConsulting/SSWSysAdmins.CreateADUser) - Automatically create an AD User, using Microsoft Forms. Automation is done with Power Automate (was Flow) calling PowerShell
+- [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
+- [802-1x/Compliance](https://github.com/802-1x/Compliance) - 
+- [khanson66/SnipeITAgent](https://github.com/khanson66/SnipeITAgent) - 
+- [jfriant/snipe-it-collector](https://github.com/jfriant/snipe-it-collector) - Single-script agent to create new Assets in a Snipe-IT database
+- [danjunx/O365-Scripts](https://github.com/danjunx/O365-Scripts) - Collection of scripts related to O365/AD automation
+- [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
+- [macaddict89/SnipeITPS-Scripts](https://github.com/macaddict89/SnipeITPS-Scripts) - Inventory Scripts for new computers/updating computers
+- [OccupiedToast/Auto-Checkout-Script-for-SnipeitPS](https://github.com/OccupiedToast/Auto-Checkout-Script-for-SnipeitPS) - A simple semi-automatic checkout script for the SnipeITPS powershell module.
+- [Shiboneko/Snipeitps.label](https://github.com/Shiboneko/Snipeitps.label) - Contains an example module, to print snipeit labels on a zebra network printer
 - [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
 - [SnoozingPinata/SamsADToolkit](https://github.com/SnoozingPinata/SamsADToolkit) - Various tools for managing Active Directory
 - [TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell](https://github.com/TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell) - All associated scripts and files for the Managing and Automating Active Directory with PowerShell course
