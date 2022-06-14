@@ -93,6 +93,7 @@
 
 ## api 
 
+- [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 
@@ -334,6 +335,18 @@
 
 ## others 
 
+- [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
+- [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
+- [SSWConsulting/SSWSysAdmins.CreateADUser](https://github.com/SSWConsulting/SSWSysAdmins.CreateADUser) - Automatically create an AD User, using Microsoft Forms. Automation is done with Power Automate (was Flow) calling PowerShell
+- [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
+- [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
+- [802-1x/Compliance](https://github.com/802-1x/Compliance) - 
+- [khanson66/SnipeITAgent](https://github.com/khanson66/SnipeITAgent) - 
+- [jfriant/snipe-it-collector](https://github.com/jfriant/snipe-it-collector) - Single-script agent to create new Assets in a Snipe-IT database
+- [danjunx/O365-Scripts](https://github.com/danjunx/O365-Scripts) - Collection of scripts related to O365/AD automation
+- [macaddict89/SnipeITPS-Scripts](https://github.com/macaddict89/SnipeITPS-Scripts) - Inventory Scripts for new computers/updating computers
+- [OccupiedToast/Auto-Checkout-Script-for-SnipeitPS](https://github.com/OccupiedToast/Auto-Checkout-Script-for-SnipeitPS) - A simple semi-automatic checkout script for the SnipeITPS powershell module.
+- [Shiboneko/Snipeitps.label](https://github.com/Shiboneko/Snipeitps.label) - Contains an example module, to print snipeit labels on a zebra network printer
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
@@ -404,6 +417,7 @@
 
 ## powershell 
 
+- [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
 - [ztrhgf/Powershell_CICD_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution 
 - [RamblingCookieMonster/PowerShell](https://github.com/RamblingCookieMonster/PowerShell) - Various PowerShell functions and scripts
 - [quonic/ProxmoxCLI](https://github.com/quonic/ProxmoxCLI) - A Proxmox PowerShell module for accessing your Proxmox APIs
