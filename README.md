@@ -44,6 +44,7 @@
 
 ## C# # 
 
+- [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [OfficeDev/microsoft-teams-tunnelrelay](https://github.com/OfficeDev/microsoft-teams-tunnelrelay) - Tunnel relay allows you to expose local services to the outside world over HTTPS
 - [WELL-E/AutoUpdater](https://github.com/WELL-E/AutoUpdater) - WPF AutoUpdater
@@ -62,6 +63,7 @@
 
 ## Go 
 
+- [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -108,6 +110,8 @@
 
 ## Others 
 
+- [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
+- [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [jsonresume/vscode-jsonresume](https://github.com/jsonresume/vscode-jsonresume) - JSONResume creation, validation, and code completion in VSCode
