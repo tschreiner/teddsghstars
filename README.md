@@ -177,6 +177,7 @@
 
 ## Python 
 
+- [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [MattFlood7/LinkedInBot](https://github.com/MattFlood7/LinkedInBot) - 👾 LinkedIn bot to help increase profile visibility to increase return in profile views, interviews, connections, etc.
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
 - [Universidad-Tecnologica-CUJAE/AD-webmanager](https://github.com/Universidad-Tecnologica-CUJAE/AD-webmanager) - A web interface for administration of Active Directory Domains, made in Python, with focus on easy of use and simplicity.
