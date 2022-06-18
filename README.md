@@ -96,6 +96,7 @@
 
 ## JavaScript 
 
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [davcd/jsonresume-theme-actual](https://github.com/davcd/jsonresume-theme-actual) - Actual theme for JSON Resume standard. Minimalist and modern resumes!
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
@@ -110,6 +111,7 @@
 
 ## Others 
 
+- [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
@@ -128,6 +130,8 @@
 
 ## PHP 
 
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
 - [deprecated-packages/statie](https://github.com/deprecated-packages/statie) - [DEPRECATED] [READ-ONLY] Use Symfony plugin instead →
 - [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
@@ -177,6 +181,8 @@
 
 ## Python 
 
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [MattFlood7/LinkedInBot](https://github.com/MattFlood7/LinkedInBot) - 👾 LinkedIn bot to help increase profile visibility to increase return in profile views, interviews, connections, etc.
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
@@ -210,6 +216,8 @@
 
 ## Shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [camunda/docker-camunda-bpm-platform](https://github.com/camunda/docker-camunda-bpm-platform) - Docker images for the camunda BPM platform
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
