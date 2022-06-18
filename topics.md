@@ -14,6 +14,8 @@
 - [azure](#azure)
 - [bash](#bash)
 - [bootstrap](#bootstrap)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
@@ -26,6 +28,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
@@ -57,6 +60,7 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
+- [programming](#programming)
 - [python](#python)
 - [python3](#python3)
 - [r](#r)
@@ -75,6 +79,7 @@
 - [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [vim](#vim)
 - [vue](#vue)
 - [web](#web)
 - [website](#website)
@@ -100,6 +105,7 @@
 
 ## automation 
 
+- [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [ztrhgf/Powershell_CICD_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution 
@@ -108,6 +114,7 @@
 
 ## awesome 
 
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
@@ -117,6 +124,7 @@
 
 ## awesome-list 
 
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
@@ -131,6 +139,7 @@
 
 ## bash 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
@@ -139,8 +148,17 @@
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
+## chrome 
+
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+
+## chrome-extension 
+
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+
 ## cli 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
@@ -176,6 +194,7 @@
 
 ## devops 
 
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 
@@ -186,12 +205,18 @@
 
 ## docker 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 
 ## documentation 
 
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
+
+## firefox 
+
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## flask 
 
@@ -207,6 +232,7 @@
 
 ## git 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [ztrhgf/Powershell_CICD_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution 
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
@@ -300,6 +326,7 @@
 
 ## laravel 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [CachetHQ/Cachet](https://github.com/CachetHQ/Cachet) - 📛 An open source status page system for everyone.
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
@@ -315,6 +342,7 @@
 
 ## markdown 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
 ## monitoring 
@@ -340,6 +368,8 @@
 
 ## others 
 
+- [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
@@ -408,6 +438,7 @@
 
 ## php 
 
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [oroinc/platform](https://github.com/oroinc/platform) - Main OroPlatform package with core functionality.
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -423,6 +454,7 @@
 
 ## powershell 
 
+- [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
 - [ztrhgf/Powershell_CICD_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution 
 - [RamblingCookieMonster/PowerShell](https://github.com/RamblingCookieMonster/PowerShell) - Various PowerShell functions and scripts
@@ -434,8 +466,13 @@
 - [rzander/sccmclictr](https://github.com/rzander/sccmclictr) - Client Center for Configuration Manager
 - [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 
+## programming 
+
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
+
 ## python 
 
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
 - [Universidad-Tecnologica-CUJAE/AD-webmanager](https://github.com/Universidad-Tecnologica-CUJAE/AD-webmanager) - A web interface for administration of Active Directory Domains, made in Python, with focus on easy of use and simplicity.
@@ -483,15 +520,18 @@
 
 ## security 
 
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
 ## shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 
 ## software 
 
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
 
 ## spring 
@@ -525,6 +565,10 @@
 ## ubuntu 
 
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
+
+## vim 
+
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 
 ## vue 
 
