@@ -32,6 +32,7 @@
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
+- [frontend](#frontend)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -91,6 +92,7 @@
 
 ## ansible 
 
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
@@ -231,6 +233,10 @@
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 
+## frontend 
+
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
+
 ## git 
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -369,6 +375,14 @@
 
 ## others 
 
+- [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
+- [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
+- [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
+- [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
+- [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
+- [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
+- [lkarlslund/adalanche](https://github.com/lkarlslund/adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
+- [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [maddevsio/madflow](https://github.com/maddevsio/madflow) - Mad Flow is an internal project for company's process automation
@@ -442,6 +456,7 @@
 
 ## php 
 
+- [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [oroinc/platform](https://github.com/oroinc/platform) - Main OroPlatform package with core functionality.
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
