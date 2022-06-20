@@ -63,6 +63,7 @@
 
 ## Go 
 
+- [lkarlslund/adalanche](https://github.com/lkarlslund/adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -89,6 +90,7 @@
 
 ## Java 
 
+- [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
@@ -98,6 +100,7 @@
 
 ## JavaScript 
 
+- [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [davcd/jsonresume-theme-actual](https://github.com/davcd/jsonresume-theme-actual) - Actual theme for JSON Resume standard. Minimalist and modern resumes!
@@ -134,6 +137,7 @@
 
 ## PHP 
 
+- [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
@@ -149,6 +153,8 @@
 
 ## PowerShell 
 
+- [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
+- [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
 - [SSWConsulting/SSWSysAdmins.CreateADUser](https://github.com/SSWConsulting/SSWSysAdmins.CreateADUser) - Automatically create an AD User, using Microsoft Forms. Automation is done with Power Automate (was Flow) calling PowerShell
 - [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
@@ -185,6 +191,9 @@
 
 ## Python 
 
+- [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
+- [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
+- [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark service
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -234,6 +243,7 @@
 
 ## TypeScript 
 
+- [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
