@@ -19,6 +19,7 @@
 - [cli](#cli)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
@@ -172,6 +173,10 @@
 ## css 
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+## cybersecurity 
+
+- [StephenOTT/OpenC2-Orchestrator](https://github.com/StephenOTT/OpenC2-Orchestrator) - OpenC2 Orchestrator backed by BPMN
 
 ## data 
 
@@ -375,13 +380,18 @@
 
 ## others 
 
+- [StephenOTT/Quintessential-Tasklist-Zeebe](https://github.com/StephenOTT/Quintessential-Tasklist-Zeebe) - The quintessential Zeebe tasklist for BPMN Human tasks with Drag and Drop Form builder, client and server side validations, and drop in Form Rendering
+- [StephenOTT/TAXII-Worker](https://github.com/StephenOTT/TAXII-Worker) - External Task Worker for TAXII-springboot-bpmn https://github.com/StephenOTT/TAXII-springboot-bpmn
+- [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
+- [m-khvoinitsky/workflow-templater](https://github.com/m-khvoinitsky/workflow-templater) - Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-liked) jira issues and emails from a template.
+- [Hafflgav/camunda-onboarding-process](https://github.com/Hafflgav/camunda-onboarding-process) - Onboarding Process showing the integration capabilities of Camunda
 - [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
 - [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
 - [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
 - [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
 - [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
-- [lkarlslund/adalanche](https://github.com/lkarlslund/adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
 - [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
