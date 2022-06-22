@@ -18,6 +18,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -63,7 +64,7 @@
 
 ## Go 
 
-- [lkarlslund/adalanche](https://github.com/lkarlslund/adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
+- [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) - Active Directory ACL Visualizer and Explorer - who's really Domain Admin?
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -77,6 +78,7 @@
 
 ## HTML 
 
+- [Hafflgav/camunda-onboarding-process](https://github.com/Hafflgav/camunda-onboarding-process) - Onboarding Process showing the integration capabilities of Camunda
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡
 - [tayfun57/tayfun57.github.io](https://github.com/tayfun57/tayfun57.github.io) - Github Pages für meine Portfolio Webseite
@@ -90,6 +92,9 @@
 
 ## Java 
 
+- [StephenOTT/Quintessential-Tasklist-Zeebe](https://github.com/StephenOTT/Quintessential-Tasklist-Zeebe) - The quintessential Zeebe tasklist for BPMN Human tasks with Drag and Drop Form builder, client and server side validations, and drop in Form Rendering
+- [StephenOTT/TAXII-Worker](https://github.com/StephenOTT/TAXII-Worker) - External Task Worker for TAXII-springboot-bpmn https://github.com/StephenOTT/TAXII-springboot-bpmn
+- [StephenOTT/OpenC2-Orchestrator](https://github.com/StephenOTT/OpenC2-Orchestrator) - OpenC2 Orchestrator backed by BPMN
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Spring, Spring Boot, CDI.
@@ -113,6 +118,10 @@
 
 - [HuyTu7/face_rating](https://github.com/HuyTu7/face_rating) - Face/Beauty Rating with both the traditional ML approaches and Convolutional Neural Network Approach
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+## Kotlin 
+
+- [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
 
 ## Others 
 
@@ -191,6 +200,7 @@
 
 ## Python 
 
+- [m-khvoinitsky/workflow-templater](https://github.com/m-khvoinitsky/workflow-templater) - Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-liked) jira issues and emails from a template.
 - [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
 - [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
