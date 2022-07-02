@@ -127,6 +127,7 @@
 
 ## Others 
 
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
 - [maddevsio/madflow](https://github.com/maddevsio/madflow) - Mad Flow is an internal project for company's process automation
 - [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
@@ -202,6 +203,7 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [m-khvoinitsky/workflow-templater](https://github.com/m-khvoinitsky/workflow-templater) - Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-liked) jira issues and emails from a template.
 - [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
 - [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
