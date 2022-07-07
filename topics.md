@@ -440,6 +440,7 @@
 
 ## others 
 
+- [baohaojun/system-config](https://github.com/baohaojun/system-config) - My customizations of Posix systems (Linux/Cygwin/Darwin/FreeBSD).
 - [florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom) - 
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
