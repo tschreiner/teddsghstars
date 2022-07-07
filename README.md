@@ -216,6 +216,7 @@
 
 ## Python 
 
+- [baohaojun/system-config](https://github.com/baohaojun/system-config) - My customizations of Posix systems (Linux/Cygwin/Darwin/FreeBSD).
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
