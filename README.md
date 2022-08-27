@@ -6,7 +6,6 @@
 ## Contents
 
 - [Batchfile](#batchfile)
-- [Bicep](#bicep)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -36,10 +35,6 @@
 
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
 - [aghorler/Windows-10-Hardening](https://github.com/aghorler/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
-
-## Bicep 
-
-- [Azure/Enterprise-Scale-for-AVS](https://github.com/Azure/Enterprise-Scale-for-AVS) - Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment. This solution provides an architectural approach and reference i
 
 ## C 
 
@@ -85,6 +80,7 @@
 
 ## HCL 
 
+- [Azure/Enterprise-Scale-for-AVS](https://github.com/Azure/Enterprise-Scale-for-AVS) - Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment. This solution provides an architectural approach and reference i
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
 
 ## HTML 
