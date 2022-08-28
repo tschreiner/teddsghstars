@@ -212,6 +212,7 @@
 
 ## Python 
 
+- [Maxlo24/SlicerAutomatedDentalTools](https://github.com/Maxlo24/SlicerAutomatedDentalTools) - A 3D Slicer extension to use AMASS, ALI-CBCT and ALI-IOS
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus.
 - [baohaojun/system-config](https://github.com/baohaojun/system-config) - My customizations of Posix systems (Linux/Cygwin/Darwin/FreeBSD).
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
