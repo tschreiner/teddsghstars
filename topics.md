@@ -446,6 +446,7 @@
 
 ## others 
 
+- [Maxlo24/SlicerAutomatedDentalTools](https://github.com/Maxlo24/SlicerAutomatedDentalTools) - A 3D Slicer extension to use AMASS, ALI-CBCT and ALI-IOS
 - [baohaojun/system-config](https://github.com/baohaojun/system-config) - My customizations of Posix systems (Linux/Cygwin/Darwin/FreeBSD).
 - [florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom) - 
 - [openai/DALL-E](https://github.com/openai/DALL-E) - PyTorch package for the discrete VAE used for DALL·E.
