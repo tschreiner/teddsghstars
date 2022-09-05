@@ -446,6 +446,9 @@
 
 ## others 
 
+- [bbbbbbzhou/DuDoRNet](https://github.com/bbbbbbzhou/DuDoRNet) - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (CVPR 2020)
+- [bbbbbbzhou/AccSeg-Net](https://github.com/bbbbbbzhou/AccSeg-Net) - Anatomy-Constrained Contrastive Learning for Synthetic Segmentation without Ground-truth (MICCAI 2021)
+- [matteobsu/MARCNN](https://github.com/matteobsu/MARCNN) - Metal Artifact Removal for spectral CT reconstruction using Convolutional Neural Network
 - [Maxlo24/SlicerAutomatedDentalTools](https://github.com/Maxlo24/SlicerAutomatedDentalTools) - A 3D Slicer extension to use AMASS, ALI-CBCT and ALI-IOS
 - [baohaojun/system-config](https://github.com/baohaojun/system-config) - My customizations of Posix systems (Linux/Cygwin/Darwin/FreeBSD).
 - [florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom) - 
