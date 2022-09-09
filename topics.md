@@ -446,6 +446,8 @@
 
 ## others 
 
+- [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
+- [pieper/SlicerTissue](https://github.com/pieper/SlicerTissue) - A collection of finite element code for simulation of soft tissue mechanics
 - [bbbbbbzhou/DuDoRNet](https://github.com/bbbbbbzhou/DuDoRNet) - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (CVPR 2020)
 - [bbbbbbzhou/AccSeg-Net](https://github.com/bbbbbbzhou/AccSeg-Net) - Anatomy-Constrained Contrastive Learning for Synthetic Segmentation without Ground-truth (MICCAI 2021)
 - [matteobsu/MARCNN](https://github.com/matteobsu/MARCNN) - Metal Artifact Removal for spectral CT reconstruction using Convolutional Neural Network
