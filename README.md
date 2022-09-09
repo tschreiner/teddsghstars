@@ -127,6 +127,7 @@
 
 ## Jupyter Notebook 
 
+- [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
 - [HuyTu7/face_rating](https://github.com/HuyTu7/face_rating) - Face/Beauty Rating with both the traditional ML approaches and Convolutional Neural Network Approach
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -212,6 +213,7 @@
 
 ## Python 
 
+- [pieper/SlicerTissue](https://github.com/pieper/SlicerTissue) - A collection of finite element code for simulation of soft tissue mechanics
 - [bbbbbbzhou/DuDoRNet](https://github.com/bbbbbbzhou/DuDoRNet) - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (CVPR 2020)
 - [bbbbbbzhou/AccSeg-Net](https://github.com/bbbbbbzhou/AccSeg-Net) - Anatomy-Constrained Contrastive Learning for Synthetic Segmentation without Ground-truth (MICCAI 2021)
 - [matteobsu/MARCNN](https://github.com/matteobsu/MARCNN) - Metal Artifact Removal for spectral CT reconstruction using Convolutional Neural Network
