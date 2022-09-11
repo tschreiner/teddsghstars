@@ -48,6 +48,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
+- [image-processing](#image-processing)
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
@@ -59,6 +60,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [matlab](#matlab)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
@@ -223,6 +225,7 @@
 
 ## deep-learning 
 
+- [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 
 ## deployment 
@@ -349,6 +352,10 @@
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
+## image-processing 
+
+- [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
+
 ## iot 
 
 - [microsoft/Windows-iotcore-samples](https://github.com/microsoft/Windows-iotcore-samples) - Official code samples repository for Windows 10 Internet of Things (IoT)
@@ -420,6 +427,10 @@
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
+## matlab 
+
+- [ustcfdm/mango_matlab](https://github.com/ustcfdm/mango_matlab) - My common matlab function
+
 ## monitoring 
 
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
@@ -446,6 +457,7 @@
 
 ## others 
 
+- [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
 - [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
 - [pieper/SlicerTissue](https://github.com/pieper/SlicerTissue) - A collection of finite element code for simulation of soft tissue mechanics
