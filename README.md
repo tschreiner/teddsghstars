@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [MATLAB](#matlab)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -51,6 +52,7 @@
 
 ## C++ 
 
+- [ustcfdm/mango_matlab](https://github.com/ustcfdm/mango_matlab) - My common matlab function
 - [microsoft/Windows-iotcore-samples](https://github.com/microsoft/Windows-iotcore-samples) - Official code samples repository for Windows 10 Internet of Things (IoT)
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries.
 
@@ -136,8 +138,14 @@
 
 - [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
 
+## MATLAB 
+
+- [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
+- [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
+
 ## Others 
 
+- [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
