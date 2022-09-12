@@ -246,6 +246,7 @@
 
 ## docker 
 
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
@@ -457,6 +458,8 @@
 
 ## others 
 
+- [ipspace/ansible-examples](https://github.com/ipspace/ansible-examples) - Ansible Examples
+- [xod442/pyhpeezmerel](https://github.com/xod442/pyhpeezmerel) - Python binding for HPE Ezmerel Rest API
 - [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
 - [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
@@ -596,6 +599,7 @@
 
 ## python 
 
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
