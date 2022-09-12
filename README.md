@@ -223,6 +223,9 @@
 
 ## Python 
 
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
+- [ipspace/ansible-examples](https://github.com/ipspace/ansible-examples) - Ansible Examples
+- [xod442/pyhpeezmerel](https://github.com/xod442/pyhpeezmerel) - Python binding for HPE Ezmerel Rest API
 - [pieper/SlicerTissue](https://github.com/pieper/SlicerTissue) - A collection of finite element code for simulation of soft tissue mechanics
 - [bbbbbbzhou/DuDoRNet](https://github.com/bbbbbbzhou/DuDoRNet) - DuDoRNet: Learning a Dual-Domain Recurrent Network for Fast MRI Reconstruction with Deep T1 Prior (CVPR 2020)
 - [bbbbbbzhou/AccSeg-Net](https://github.com/bbbbbbzhou/AccSeg-Net) - Anatomy-Constrained Contrastive Learning for Synthetic Segmentation without Ground-truth (MICCAI 2021)
