@@ -334,6 +334,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [MicrosoftDocs/azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.
 - [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
