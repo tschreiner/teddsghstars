@@ -10,6 +10,7 @@
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
+- [Emacs Lisp](#emacs-lisp)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -61,8 +62,13 @@
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 - [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
 
+## Emacs Lisp 
+
+- [daviderestivo/comware-router-mode](https://github.com/daviderestivo/comware-router-mode) - Major mode for editing Comware configuration files
+
 ## Go 
 
+- [exsver/netconf](https://github.com/exsver/netconf) - NETCONF client library
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -146,6 +152,7 @@
 
 ## Others 
 
+- [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
 - [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red Team operations, Bug Bounty and more
@@ -224,6 +231,11 @@
 
 ## Python 
 
+- [xdai555/napalm-h3c-cw7-ssh](https://github.com/xdai555/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7 network devices.
+- [xdai555/textfsm_hpe_cmw7](https://github.com/xdai555/textfsm_hpe_cmw7) - Textfsm templates for HPE CMW7
+- [CodethinkLabs/ansible-hpe-cw7](https://github.com/CodethinkLabs/ansible-hpe-cw7) - Repository contains files required to support HPE Aruba Comware7 platforms in Ansible. Requires pyhpecw7 python library.
+- [firefly-serenity/napalm-flexfabric](https://github.com/firefly-serenity/napalm-flexfabric) - NAPALM driver for HPE FlexFabric hardware with Comware OS
+- [napalm-automation-community/napalm-h3c-cw7-ssh](https://github.com/napalm-automation-community/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7, over SSH
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [ipspace/ansible-examples](https://github.com/ipspace/ansible-examples) - Ansible Examples
