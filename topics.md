@@ -352,6 +352,7 @@
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel and Flutter
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 
@@ -479,6 +480,8 @@
 
 ## others 
 
+- [ipspace/VLAN-service](https://github.com/ipspace/VLAN-service) - Set of playbooks used to deploy a VLAN-based service.
+- [networktocode/ntc-rosetta](https://github.com/networktocode/ntc-rosetta) - The missing bridge between industry standard CLIs and YANG
 - [xdai555/napalm-h3c-cw7-ssh](https://github.com/xdai555/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7 network devices.
 - [xdai555/textfsm_hpe_cmw7](https://github.com/xdai555/textfsm_hpe_cmw7) - Textfsm templates for HPE CMW7
 - [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
@@ -578,7 +581,6 @@
 - [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
-- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 - [fastlane-old/frameit](https://github.com/fastlane-old/frameit) - Quickly put your screenshots into the right device frames
 
