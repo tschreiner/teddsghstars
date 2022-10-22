@@ -480,6 +480,9 @@
 
 ## others 
 
+- [HPENetworking/HPEIMCUtils](https://github.com/HPENetworking/HPEIMCUtils) - Collection of Utilities and Templates to extend HPE's Intelligent Management Center NMS Platform
+- [tschreiner/misc-net-automation-tools](https://github.com/tschreiner/misc-net-automation-tools) - 
+- [net-auto/automation-tools](https://github.com/net-auto/automation-tools) - 
 - [ipspace/VLAN-service](https://github.com/ipspace/VLAN-service) - Set of playbooks used to deploy a VLAN-based service.
 - [networktocode/ntc-rosetta](https://github.com/networktocode/ntc-rosetta) - The missing bridge between industry standard CLIs and YANG
 - [xdai555/napalm-h3c-cw7-ssh](https://github.com/xdai555/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7 network devices.
