@@ -29,6 +29,7 @@
 - [Rust](#rust)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Tcl](#tcl)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -231,6 +232,8 @@
 
 ## Python 
 
+- [tschreiner/misc-net-automation-tools](https://github.com/tschreiner/misc-net-automation-tools) - 
+- [net-auto/automation-tools](https://github.com/net-auto/automation-tools) - 
 - [networktocode/ntc-rosetta](https://github.com/networktocode/ntc-rosetta) - The missing bridge between industry standard CLIs and YANG
 - [xdai555/napalm-h3c-cw7-ssh](https://github.com/xdai555/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7 network devices.
 - [xdai555/textfsm_hpe_cmw7](https://github.com/xdai555/textfsm_hpe_cmw7) - Textfsm templates for HPE CMW7
@@ -304,6 +307,10 @@
 ## Smarty 
 
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
+
+## Tcl 
+
+- [HPENetworking/HPEIMCUtils](https://github.com/HPENetworking/HPEIMCUtils) - Collection of Utilities and Templates to extend HPE's Intelligent Management Center NMS Platform
 
 ## TypeScript 
 
