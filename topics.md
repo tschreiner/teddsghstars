@@ -480,6 +480,7 @@
 
 ## others 
 
+- [socialwifi/jsonapi-requests](https://github.com/socialwifi/jsonapi-requests) - Python client implementation for json api. http://jsonapi.org/
 - [HPENetworking/HPEIMCUtils](https://github.com/HPENetworking/HPEIMCUtils) - Collection of Utilities and Templates to extend HPE's Intelligent Management Center NMS Platform
 - [tschreiner/misc-net-automation-tools](https://github.com/tschreiner/misc-net-automation-tools) - 
 - [net-auto/automation-tools](https://github.com/net-auto/automation-tools) - 
@@ -629,6 +630,7 @@
 
 ## python 
 
+- [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
@@ -664,6 +666,7 @@
 
 ## rest-api 
 
+- [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
 
