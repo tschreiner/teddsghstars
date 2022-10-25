@@ -232,6 +232,8 @@
 
 ## Python 
 
+- [socialwifi/jsonapi-requests](https://github.com/socialwifi/jsonapi-requests) - Python client implementation for json api. http://jsonapi.org/
+- [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
 - [tschreiner/misc-net-automation-tools](https://github.com/tschreiner/misc-net-automation-tools) - 
 - [net-auto/automation-tools](https://github.com/net-auto/automation-tools) - 
 - [networktocode/ntc-rosetta](https://github.com/networktocode/ntc-rosetta) - The missing bridge between industry standard CLIs and YANG
