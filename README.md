@@ -233,6 +233,7 @@
 
 ## Python 
 
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [socialwifi/jsonapi-requests](https://github.com/socialwifi/jsonapi-requests) - Python client implementation for json api. http://jsonapi.org/
 - [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
