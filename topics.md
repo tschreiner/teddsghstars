@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [android](#android)
 - [ansible](#ansible)
 - [api](#api)
@@ -19,6 +20,7 @@
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [coding](#coding)
+- [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -76,6 +78,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [r](#r)
 - [react](#react)
 - [reactjs](#reactjs)
@@ -101,6 +104,10 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+
+## 3d 
+
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
 ## android 
 
@@ -199,6 +206,10 @@
 ## coding 
 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+## computer-vision 
+
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
 ## continuous-integration 
 
@@ -653,6 +664,10 @@
 ## python3 
 
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
+
+## pytorch 
+
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
 ## r 
 
