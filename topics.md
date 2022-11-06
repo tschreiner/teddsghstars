@@ -492,6 +492,7 @@
 
 ## others 
 
+- [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [socialwifi/jsonapi-requests](https://github.com/socialwifi/jsonapi-requests) - Python client implementation for json api. http://jsonapi.org/
 - [HPENetworking/HPEIMCUtils](https://github.com/HPENetworking/HPEIMCUtils) - Collection of Utilities and Templates to extend HPE's Intelligent Management Center NMS Platform
@@ -643,6 +644,7 @@
 
 ## python 
 
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
