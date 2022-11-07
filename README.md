@@ -54,6 +54,8 @@
 
 ## C++ 
 
+- [middlefeng/NuoModelViewer](https://github.com/middlefeng/NuoModelViewer) - A simple Wavefront OBJ viewer.
+- [benikabocha/saba](https://github.com/benikabocha/saba) - OpenGL Viewer (OBJ PMD PMX)
 - [ustcfdm/mango_matlab](https://github.com/ustcfdm/mango_matlab) - My common matlab function
 - [microsoft/Windows-iotcore-samples](https://github.com/microsoft/Windows-iotcore-samples) - Official code samples repository for Windows 10 Internet of Things (IoT)
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM binaries.
@@ -125,6 +127,7 @@
 
 ## JavaScript 
 
+- [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
@@ -145,6 +148,7 @@
 
 ## Kotlin 
 
+- [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
 - [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
 
 ## MATLAB 
@@ -233,6 +237,8 @@
 
 ## Python 
 
+- [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) - Python script to extract a STL surface from a DICOM image series.
+- [cogitas3d/OrtogOnBlender](https://github.com/cogitas3d/OrtogOnBlender) - Addon para o planejamento de cirurgia ortognática digital
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
