@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Emacs Lisp](#emacs-lisp)
+- [Fortran](#fortran)
 - [Go](#go)
 - [Groovy](#groovy)
 - [HCL](#hcl)
@@ -45,6 +46,7 @@
 
 ## C# # 
 
+- [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D. Want to support my project? Donate some money to Red Cross and send me a screenshot/message/issue, and I'll be greatly motivated! :) Any amount is welcome!
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [OfficeDev/microsoft-teams-tunnelrelay](https://github.com/OfficeDev/microsoft-teams-tunnelrelay) - Tunnel relay allows you to expose local services to the outside world over HTTPS
@@ -54,6 +56,8 @@
 
 ## C++ 
 
+- [hdclark/DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - A multipurpose tool for medical physics.
+- [dmilashinovic/dfemtoolz](https://github.com/dmilashinovic/dfemtoolz) - dfemtoolz
 - [middlefeng/NuoModelViewer](https://github.com/middlefeng/NuoModelViewer) - A simple Wavefront OBJ viewer.
 - [benikabocha/saba](https://github.com/benikabocha/saba) - OpenGL Viewer (OBJ PMD PMX)
 - [ustcfdm/mango_matlab](https://github.com/ustcfdm/mango_matlab) - My common matlab function
@@ -68,6 +72,10 @@
 ## Emacs Lisp 
 
 - [daviderestivo/comware-router-mode](https://github.com/daviderestivo/comware-router-mode) - Major mode for editing Comware configuration files
+
+## Fortran 
+
+- [victorsndvg/FEconv](https://github.com/victorsndvg/FEconv) - Program feconv is an utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. If you u
 
 ## Go 
 
@@ -112,6 +120,7 @@
 
 ## Java 
 
+- [Fidentis/Analyst](https://github.com/Fidentis/Analyst) - Fidentis Analyst a target-orientated user-friendly computer interface for processing 3D meshes of human faces. The program enables a variety of 3D facial morphological analyses designed for forensic p
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [OrienteerBAP/Orienteer](https://github.com/OrienteerBAP/Orienteer) - Business Application Platform - no-code/low-code platform to build business applications
 - [StephenOTT/Quintessential-Tasklist-Zeebe](https://github.com/StephenOTT/Quintessential-Tasklist-Zeebe) - The quintessential Zeebe tasklist for BPMN Human tasks with Drag and Drop Form builder, client and server side validations, and drop in Form Rendering
@@ -127,6 +136,7 @@
 
 ## JavaScript 
 
+- [FNNDSC/ami](https://github.com/FNNDSC/ami) - AMI Medical Imaging (AMI) JS ToolKit
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -153,6 +163,7 @@
 
 ## MATLAB 
 
+- [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
 - [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
 
@@ -237,6 +248,17 @@
 
 ## Python 
 
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
+- [oahzxl/nicp](https://github.com/oahzxl/nicp) - Non-rigid Iterative Closest Point(NICP) fits 3d face meshes
+- [mrizwan18/Face3D-API](https://github.com/mrizwan18/Face3D-API) - API to send .jpg portrait and obtain .obj face mesh
+- [Outsiders17711/streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
+- [FynnAschmoneit/nonOrthogonalityCheckSalome](https://github.com/FynnAschmoneit/nonOrthogonalityCheckSalome) - A python class to be included in Salome meshing scripts for detection of non-orthogonal and skew faces.
+- [TimoBolkart/mesh](https://github.com/TimoBolkart/mesh) - MPI-IS Mesh Processing Library
+- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
+- [YadiraF/face3d](https://github.com/YadiraF/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
+- [cviaai/DEEP-NEGATIVE-VOLUME](https://github.com/cviaai/DEEP-NEGATIVE-VOLUME) - Deep Negative Volume Segmentation - automated 3D CT segmentation of body joints for dentistry
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) - Python script to extract a STL surface from a DICOM image series.
 - [cogitas3d/OrtogOnBlender](https://github.com/cogitas3d/OrtogOnBlender) - Addon para o planejamento de cirurgia ortognática digital
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
