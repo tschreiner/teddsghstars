@@ -94,10 +94,12 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [symfony](#symfony)
+- [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [vue](#vue)
@@ -108,6 +110,8 @@
 
 ## 3d 
 
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
 - [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
@@ -212,6 +216,8 @@
 
 ## computer-vision 
 
+- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
+- [cviaai/DEEP-NEGATIVE-VOLUME](https://github.com/cviaai/DEEP-NEGATIVE-VOLUME) - Deep Negative Volume Segmentation - automated 3D CT segmentation of body joints for dentistry
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 
@@ -390,6 +396,7 @@
 
 ## image-processing 
 
+- [hdclark/DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - A multipurpose tool for medical physics.
 - [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
 
 ## iot 
@@ -406,6 +413,7 @@
 
 ## javascript 
 
+- [FNNDSC/ami](https://github.com/FNNDSC/ami) - AMI Medical Imaging (AMI) JS ToolKit
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Bu
@@ -503,6 +511,18 @@
 
 ## others 
 
+- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
+- [oahzxl/nicp](https://github.com/oahzxl/nicp) - Non-rigid Iterative Closest Point(NICP) fits 3d face meshes
+- [mrizwan18/Face3D-API](https://github.com/mrizwan18/Face3D-API) - API to send .jpg portrait and obtain .obj face mesh
+- [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
+- [Outsiders17711/streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
+- [FynnAschmoneit/nonOrthogonalityCheckSalome](https://github.com/FynnAschmoneit/nonOrthogonalityCheckSalome) - A python class to be included in Salome meshing scripts for detection of non-orthogonal and skew faces.
+- [Fidentis/Analyst](https://github.com/Fidentis/Analyst) - Fidentis Analyst a target-orientated user-friendly computer interface for processing 3D meshes of human faces. The program enables a variety of 3D facial morphological analyses designed for forensic p
+- [TimoBolkart/mesh](https://github.com/TimoBolkart/mesh) - MPI-IS Mesh Processing Library
+- [victorsndvg/FEconv](https://github.com/victorsndvg/FEconv) - Program feconv is an utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. If you u
+- [YadiraF/face3d](https://github.com/YadiraF/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
+- [dmilashinovic/dfemtoolz](https://github.com/dmilashinovic/dfemtoolz) - dfemtoolz
+- [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [middlefeng/NuoModelViewer](https://github.com/middlefeng/NuoModelViewer) - A simple Wavefront OBJ viewer.
 - [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) - Python script to extract a STL surface from a DICOM image series.
 - [cogitas3d/OrtogOnBlender](https://github.com/cogitas3d/OrtogOnBlender) - Addon para o planejamento de cirurgia ortognática digital
@@ -757,6 +777,10 @@
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
+## tensorflow 
+
+- [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
+
 ## terminal 
 
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
@@ -780,6 +804,10 @@
 ## ubuntu 
 
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
+
+## unity 
+
+- [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D. Want to support my project? Donate some money to Red Cross and send me a screenshot/message/issue, and I'll be greatly motivated! :) Any amount is welcome!
 
 ## vagrant 
 
