@@ -26,6 +26,7 @@
 - [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -56,6 +57,9 @@
 
 ## C++ 
 
+- [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [hdclark/DICOMautomaton](https://github.com/hdclark/DICOMautomaton) - A multipurpose tool for medical physics.
 - [dmilashinovic/dfemtoolz](https://github.com/dmilashinovic/dfemtoolz) - dfemtoolz
 - [middlefeng/NuoModelViewer](https://github.com/middlefeng/NuoModelViewer) - A simple Wavefront OBJ viewer.
@@ -136,6 +140,7 @@
 
 ## JavaScript 
 
+- [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [FNNDSC/ami](https://github.com/FNNDSC/ami) - AMI Medical Imaging (AMI) JS ToolKit
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -169,6 +174,7 @@
 
 ## Others 
 
+- [3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) - The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstu
 - [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
 - [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
@@ -248,6 +254,9 @@
 
 ## Python 
 
+- [daili0015/ModelFeast](https://github.com/daili0015/ModelFeast) - Pytorch model zoo for human, include all kinds of 2D CNN, 3D CNN, and CRNN
+- [sw-gong/coma](https://github.com/sw-gong/coma) - Pytorch reproduction of the paper "Generating 3D faces using Convolutional Mesh Autoencoders (CoMA)" (ECCV 2018)
+- [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
 - [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
 - [deepmind/surface-distance](https://github.com/deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
 - [oahzxl/nicp](https://github.com/oahzxl/nicp) - Non-rigid Iterative Closest Point(NICP) fits 3d face meshes
@@ -319,6 +328,10 @@
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 
+## Roff 
+
+- [nornir-automation/nornir-tools](https://github.com/nornir-automation/nornir-tools) - Ready to use tools and examples written with Nornir
+
 ## Ruby 
 
 - [programmercv/resume_exporter](https://github.com/programmercv/resume_exporter) - A ruby gem to export public résumé data from various sources (LinkedIn, Xing, Stackoverflow) to json or xml
@@ -349,6 +362,7 @@
 
 ## TypeScript 
 
+- [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.
