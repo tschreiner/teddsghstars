@@ -523,6 +523,11 @@
 
 ## others 
 
+- [patmo141/d3tool_tooth_segmentation](https://github.com/patmo141/d3tool_tooth_segmentation) - client side addon for cloud partially based segmentation algorithm
+- [patmo141/cut_mesh](https://github.com/patmo141/cut_mesh) - Tools for mesh trimming and cutting in Blender
+- [patmo141/odc_public](https://github.com/patmo141/odc_public) - Addon for Blender meant to streamline dental CAD and design workflows
+- [manjunath5496/Biomechanics-Books](https://github.com/manjunath5496/Biomechanics-Books) - "Science needs no more progress, it has already progressed too far from happiness." ― Vineet Raj Kapoor
+- [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
 - [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [sw-gong/coma](https://github.com/sw-gong/coma) - Pytorch reproduction of the paper "Generating 3D faces using Convolutional Mesh Autoencoders (CoMA)" (ECCV 2018)
 - [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
@@ -625,7 +630,7 @@
 - [WELL-E/AutoUpdater](https://github.com/WELL-E/AutoUpdater) - WPF AutoUpdater
 - [umich-arc/windows-packer-templates](https://github.com/umich-arc/windows-packer-templates) - Windows Image templates for Packer.
 - [napalm-automation-community/napalm-vyos](https://github.com/napalm-automation-community/napalm-vyos) - NAPALM Driver for the VyOS
-- [ansiblejunky/ansible-examples-repos-project](https://github.com/ansiblejunky/ansible-examples-repos-project) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
+- [ansiblejunky/ansible-project-template](https://github.com/ansiblejunky/ansible-project-template) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
 - [kubasiatkowski/SCCMChoco](https://github.com/kubasiatkowski/SCCMChoco) - 
 - [bwya77/Master-User-Creator](https://github.com/bwya77/Master-User-Creator) - GUI Application written in PowerShell to easily and quickly create, and configure Active Directory and/or Office 365 Users in a single window. Enable MFA, apply licenses, add to groups, and much more
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
