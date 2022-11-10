@@ -156,6 +156,7 @@
 
 ## Jupyter Notebook 
 
+- [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
 - [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
 - [HuyTu7/face_rating](https://github.com/HuyTu7/face_rating) - Face/Beauty Rating with both the traditional ML approaches and Convolutional Neural Network Approach
@@ -174,6 +175,7 @@
 
 ## Others 
 
+- [manjunath5496/Biomechanics-Books](https://github.com/manjunath5496/Biomechanics-Books) - "Science needs no more progress, it has already progressed too far from happiness." ― Vineet Raj Kapoor
 - [3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) - The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstu
 - [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
 - [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
@@ -254,6 +256,9 @@
 
 ## Python 
 
+- [patmo141/d3tool_tooth_segmentation](https://github.com/patmo141/d3tool_tooth_segmentation) - client side addon for cloud partially based segmentation algorithm
+- [patmo141/cut_mesh](https://github.com/patmo141/cut_mesh) - Tools for mesh trimming and cutting in Blender
+- [patmo141/odc_public](https://github.com/patmo141/odc_public) - Addon for Blender meant to streamline dental CAD and design workflows
 - [daili0015/ModelFeast](https://github.com/daili0015/ModelFeast) - Pytorch model zoo for human, include all kinds of 2D CNN, 3D CNN, and CRNN
 - [sw-gong/coma](https://github.com/sw-gong/coma) - Pytorch reproduction of the paper "Generating 3D faces using Convolutional Mesh Autoencoders (CoMA)" (ECCV 2018)
 - [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
@@ -314,7 +319,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
 - [napalm-automation-community/napalm-vyos](https://github.com/napalm-automation-community/napalm-vyos) - NAPALM Driver for the VyOS
-- [ansiblejunky/ansible-examples-repos-project](https://github.com/ansiblejunky/ansible-examples-repos-project) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
+- [ansiblejunky/ansible-project-template](https://github.com/ansiblejunky/ansible-project-template) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
 - [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
 - [PacktPublishing/Automate-it](https://github.com/PacktPublishing/Automate-it) - Code repository for Automate it!, published by Packt
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
