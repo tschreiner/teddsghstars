@@ -256,6 +256,7 @@
 
 ## Python 
 
+- [Maxlo24/AMASSS_CBCT](https://github.com/Maxlo24/AMASSS_CBCT) - Automatic segmentation of CBCT scans with a 3D Unet
 - [patmo141/d3tool_tooth_segmentation](https://github.com/patmo141/d3tool_tooth_segmentation) - client side addon for cloud partially based segmentation algorithm
 - [patmo141/cut_mesh](https://github.com/patmo141/cut_mesh) - Tools for mesh trimming and cutting in Blender
 - [patmo141/odc_public](https://github.com/patmo141/odc_public) - Addon for Blender meant to streamline dental CAD and design workflows
