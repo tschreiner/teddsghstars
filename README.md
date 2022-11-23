@@ -173,6 +173,7 @@
 
 ## MATLAB 
 
+- [IyerOnFyer/Facial-Beauty-Prediction](https://github.com/IyerOnFyer/Facial-Beauty-Prediction) - 
 - [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
 - [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
@@ -260,6 +261,7 @@
 
 ## Python 
 
+- [HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) - A diverse benchmark database for multi-paradigm facial beauty prediction
 - [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - hcloud-python is a library for the Hetzner Cloud API.
 - [KIT-IBT/3D-Guided-Face-Mani](https://github.com/KIT-IBT/3D-Guided-Face-Mani) - 3D-Guided Face Manipulation of 2D Images for the Prediction of Post-Operative Outcome after Cranio-Maxillofacial Surgery
 - [Maxlo24/AMASSS_CBCT](https://github.com/Maxlo24/AMASSS_CBCT) - Automatic segmentation of CBCT scans with a 3D Unet
