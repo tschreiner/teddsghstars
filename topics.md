@@ -552,7 +552,7 @@
 - [Fidentis/Analyst](https://github.com/Fidentis/Analyst) - Fidentis Analyst a target-orientated user-friendly computer interface for processing 3D meshes of human faces. The program enables a variety of 3D facial morphological analyses designed for forensic p
 - [TimoBolkart/mesh](https://github.com/TimoBolkart/mesh) - MPI-IS Mesh Processing Library
 - [victorsndvg/FEconv](https://github.com/victorsndvg/FEconv) - Program feconv is an utility to convert between several mesh and FE field formats, like ANSYS mesh files (.msh), MD Nastran input files (.bdf), I-Deas Universal (.unv), VTK files (.vtk), etc. If you u
-- [YadiraF/face3d](https://github.com/YadiraF/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
+- [yfeng95/face3d](https://github.com/yfeng95/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
 - [dmilashinovic/dfemtoolz](https://github.com/dmilashinovic/dfemtoolz) - dfemtoolz
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [middlefeng/NuoModelViewer](https://github.com/middlefeng/NuoModelViewer) - A simple Wavefront OBJ viewer.
