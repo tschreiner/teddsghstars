@@ -279,7 +279,7 @@
 - [FynnAschmoneit/nonOrthogonalityCheckSalome](https://github.com/FynnAschmoneit/nonOrthogonalityCheckSalome) - A python class to be included in Salome meshing scripts for detection of non-orthogonal and skew faces.
 - [TimoBolkart/mesh](https://github.com/TimoBolkart/mesh) - MPI-IS Mesh Processing Library
 - [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
-- [YadiraF/face3d](https://github.com/YadiraF/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
+- [yfeng95/face3d](https://github.com/yfeng95/face3d) - Python tools for 3D face: 3DMM, Mesh processing(transform, camera, light, render), 3D face representations.
 - [cviaai/DEEP-NEGATIVE-VOLUME](https://github.com/cviaai/DEEP-NEGATIVE-VOLUME) - Deep Negative Volume Segmentation - automated 3D CT segmentation of body joints for dentistry
 - [PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg) - Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat
 - [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) - Python script to extract a STL surface from a DICOM image series.
