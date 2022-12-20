@@ -133,6 +133,7 @@
 
 ## ansible 
 
+- [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
 - [tbotnz/cisshgo](https://github.com/tbotnz/cisshgo) - simple concurrent ssh server posing as cisco ios
 - [CodethinkLabs/ansible-hpe-cw7](https://github.com/CodethinkLabs/ansible-hpe-cw7) - Repository contains files required to support HPE Aruba Comware7 platforms in Ansible. Requires pyhpecw7 python library.
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
@@ -153,6 +154,7 @@
 
 ## automation 
 
+- [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
 - [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
@@ -530,6 +532,7 @@
 
 ## others 
 
+- [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
 - [HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) - A diverse benchmark database for multi-paradigm facial beauty prediction
 - [IyerOnFyer/Facial-Beauty-Prediction](https://github.com/IyerOnFyer/Facial-Beauty-Prediction) - 
 - [KIT-IBT/3D-Guided-Face-Mani](https://github.com/KIT-IBT/3D-Guided-Face-Mani) - 3D-Guided Face Manipulation of 2D Images for the Prediction of Post-Operative Outcome after Cranio-Maxillofacial Surgery
