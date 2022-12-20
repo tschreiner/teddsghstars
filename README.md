@@ -19,6 +19,7 @@
 - [Handlebars](#handlebars)
 - [Java](#java)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [MATLAB](#matlab)
@@ -155,6 +156,10 @@
 - [lithnet/laps-web](https://github.com/lithnet/laps-web) - A web site for managing access to local admin passwords managed by Microsoft LAPS
 - [albinekb/open-pip-cli](https://github.com/albinekb/open-pip-cli) - 📺 CLI for https://github.com/albinekb/open-pip - Open a movie url or path in macOS picture-in-picture
 
+## Jinja 
+
+- [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
+
 ## Jupyter Notebook 
 
 - [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
@@ -257,6 +262,7 @@
 
 ## Python 
 
+- [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
 - [HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) - A diverse benchmark database for multi-paradigm facial beauty prediction
 - [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - hcloud-python is a library for the Hetzner Cloud API.
 - [KIT-IBT/3D-Guided-Face-Mani](https://github.com/KIT-IBT/3D-Guided-Face-Mani) - 3D-Guided Face Manipulation of 2D Images for the Prediction of Post-Operative Outcome after Cranio-Maxillofacial Surgery
