@@ -182,6 +182,7 @@
 
 ## Others 
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [manjunath5496/Biomechanics-Books](https://github.com/manjunath5496/Biomechanics-Books) - "Science needs no more progress, it has already progressed too far from happiness." ― Vineet Raj Kapoor
 - [3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) - The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstu
 - [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
@@ -209,6 +210,8 @@
 
 ## PHP 
 
+- [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
+- [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
 - [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - Your self-hosted bookmark archive. Free and open source.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
@@ -378,6 +381,7 @@
 
 ## TypeScript 
 
+- [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
