@@ -73,6 +73,7 @@
 - [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -349,6 +350,7 @@
 
 ## go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
@@ -679,6 +681,10 @@
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 - [fastlane-old/frameit](https://github.com/fastlane-old/frameit) - Quickly put your screenshots into the right device frames
 
+## p2p 
+
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+
 ## php 
 
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
@@ -721,6 +727,7 @@
 
 ## python 
 
+- [networktocode/diffsync](https://github.com/networktocode/diffsync) - A utility library for comparing and synchronizing different datasets.
 - [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - hcloud-python is a library for the Hetzner Cloud API.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [Tishka17/dataclass_rest](https://github.com/Tishka17/dataclass_rest) - A modern and simple way to create clients for REST like APIs
