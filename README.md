@@ -84,6 +84,7 @@
 
 ## Go 
 
+- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [willfaught/orm-and-rpc](https://github.com/willfaught/orm-and-rpc) - Presentation & prototype for ORM & RPC frameworks
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [tbotnz/cisshgo](https://github.com/tbotnz/cisshgo) - simple concurrent ssh server posing as cisco ios
