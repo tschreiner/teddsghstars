@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
 - [networktocode/diffsync](https://github.com/networktocode/diffsync) - A utility library for comparing and synchronizing different datasets.
 - [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
 - [HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) - A diverse benchmark database for multi-paradigm facial beauty prediction
