@@ -543,6 +543,7 @@
 
 ## others 
 
+- [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
