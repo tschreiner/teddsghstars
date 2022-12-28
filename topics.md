@@ -543,6 +543,7 @@
 
 ## others 
 
+- [frontiersi/Cliniface](https://github.com/frontiersi/Cliniface) - 3D Facial Image Visualisation and Analysis
 - [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
