@@ -22,6 +22,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [MATLAB](#matlab)
 - [Others](#others)
 - [PHP](#php)
@@ -175,6 +176,10 @@
 
 - [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
 - [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
+
+## Lua 
+
+- [frontiersi/Cliniface](https://github.com/frontiersi/Cliniface) - 3D Facial Image Visualisation and Analysis
 
 ## MATLAB 
 
