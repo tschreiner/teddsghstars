@@ -425,6 +425,7 @@
 
 ## iot 
 
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [microsoft/Windows-iotcore-samples](https://github.com/microsoft/Windows-iotcore-samples) - Official code samples repository for Windows 10 Internet of Things (IoT)
 
 ## java 
@@ -530,6 +531,7 @@
 
 ## open-source 
 
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 
 ## opengl 
@@ -543,6 +545,10 @@
 
 ## others 
 
+- [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
+- [joanapereira115/cmdb-auto-creation](https://github.com/joanapereira115/cmdb-auto-creation) - Method for automatic creation of a CMDB, using network analysis, machine audits, and system inventory tools, that adapts the data to the structure of the database to be used by the organization.
+- [saidvandeklundert/cg](https://github.com/saidvandeklundert/cg) - Configuration Generation
+- [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 - [frontiersi/Cliniface](https://github.com/frontiersi/Cliniface) - 3D Facial Image Visualisation and Analysis
 - [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
 - [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
