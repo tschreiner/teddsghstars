@@ -45,6 +45,7 @@
 
 ## C 
 
+- [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 
 ## C# # 
@@ -145,6 +146,7 @@
 
 ## JavaScript 
 
+- [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 - [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [FNNDSC/ami](https://github.com/FNNDSC/ami) - AMI Medical Imaging (AMI) JS ToolKit
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -166,6 +168,7 @@
 
 ## Jupyter Notebook 
 
+- [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
 - [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
 - [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
@@ -273,6 +276,8 @@
 
 ## Python 
 
+- [joanapereira115/cmdb-auto-creation](https://github.com/joanapereira115/cmdb-auto-creation) - Method for automatic creation of a CMDB, using network analysis, machine audits, and system inventory tools, that adapts the data to the structure of the database to be used by the organization.
+- [saidvandeklundert/cg](https://github.com/saidvandeklundert/cg) - Configuration Generation
 - [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
 - [networktocode/diffsync](https://github.com/networktocode/diffsync) - A utility library for comparing and synchronizing different datasets.
 - [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
