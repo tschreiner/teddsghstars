@@ -146,6 +146,7 @@
 
 ## JavaScript 
 
+- [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
 - [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 - [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [FNNDSC/ami](https://github.com/FNNDSC/ami) - AMI Medical Imaging (AMI) JS ToolKit
