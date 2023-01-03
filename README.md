@@ -194,6 +194,7 @@
 
 ## Others 
 
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [manjunath5496/Biomechanics-Books](https://github.com/manjunath5496/Biomechanics-Books) - "Science needs no more progress, it has already progressed too far from happiness." ― Vineet Raj Kapoor
 - [3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) - The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstu
@@ -277,6 +278,11 @@
 
 ## Python 
 
+- [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
+- [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
+- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
+- [wearefair/modelmapper](https://github.com/wearefair/modelmapper) - Deterministic Data Driven Schema Modeling: Auto generate SQLalchemy models, cleaning and normalization functions from your csv files!
 - [joanapereira115/cmdb-auto-creation](https://github.com/joanapereira115/cmdb-auto-creation) - Method for automatic creation of a CMDB, using network analysis, machine audits, and system inventory tools, that adapts the data to the structure of the database to be used by the organization.
 - [saidvandeklundert/cg](https://github.com/saidvandeklundert/cg) - Configuration Generation
 - [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
