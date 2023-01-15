@@ -573,6 +573,9 @@
 
 ## others 
 
+- [caxap/jsonobjects](https://github.com/caxap/jsonobjects) - jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.
+- [emolch/guts](https://github.com/emolch/guts) - Lightweight declarative YAML and XML data binding for Python
+- [hanneskod/classtools](https://github.com/hanneskod/classtools) - Find, extract and process php classes from the file system
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
 - [joanapereira115/cmdb-auto-creation](https://github.com/joanapereira115/cmdb-auto-creation) - Method for automatic creation of a CMDB, using network analysis, machine audits, and system inventory tools, that adapts the data to the structure of the database to be used by the organization.
@@ -767,6 +770,7 @@
 
 ## python 
 
+- [x84net/idoitAPI](https://github.com/x84net/idoitAPI) - 
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
