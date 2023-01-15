@@ -224,6 +224,7 @@
 
 ## PHP 
 
+- [hanneskod/classtools](https://github.com/hanneskod/classtools) - Find, extract and process php classes from the file system
 - [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
 - [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
 - [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
@@ -279,6 +280,9 @@
 
 ## Python 
 
+- [x84net/idoitAPI](https://github.com/x84net/idoitAPI) - 
+- [caxap/jsonobjects](https://github.com/caxap/jsonobjects) - jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.
+- [emolch/guts](https://github.com/emolch/guts) - Lightweight declarative YAML and XML data binding for Python
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
