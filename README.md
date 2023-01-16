@@ -86,7 +86,7 @@
 
 ## Go 
 
-- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
+- [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [willfaught/orm-and-rpc](https://github.com/willfaught/orm-and-rpc) - Presentation & prototype for ORM & RPC frameworks
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [tbotnz/cisshgo](https://github.com/tbotnz/cisshgo) - simple concurrent ssh server posing as cisco ios
@@ -280,6 +280,7 @@
 
 ## Python 
 
+- [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [x84net/idoitAPI](https://github.com/x84net/idoitAPI) - 
 - [caxap/jsonobjects](https://github.com/caxap/jsonobjects) - jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.
 - [emolch/guts](https://github.com/emolch/guts) - Lightweight declarative YAML and XML data binding for Python
