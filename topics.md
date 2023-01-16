@@ -583,7 +583,7 @@
 - [romannurik/SlidesCodeHighlighter](https://github.com/romannurik/SlidesCodeHighlighter) - A little web app that helps you copy+paste syntax-highlighted code into slide decks.
 - [frontiersi/Cliniface](https://github.com/frontiersi/Cliniface) - 3D Facial Image Visualisation and Analysis
 - [infobloxopen/netmri-bootstrap](https://github.com/infobloxopen/netmri-bootstrap) - NetMRI bootstrap framework
-- [ChatGPT-Hackers/ChatGPT-API-server](https://github.com/ChatGPT-Hackers/ChatGPT-API-server) - API server for ChatGPT
+- [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [yzguy/config_render_example](https://github.com/yzguy/config_render_example) - 
 - [HCIILAB/SCUT-FBP5500-Database-Release](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) - A diverse benchmark database for multi-paradigm facial beauty prediction
@@ -770,6 +770,7 @@
 
 ## python 
 
+- [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [x84net/idoitAPI](https://github.com/x84net/idoitAPI) - 
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn) - A simple library for implementing common design patterns.
