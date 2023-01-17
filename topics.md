@@ -573,6 +573,9 @@
 
 ## others 
 
+- [slchorne/apibrowser](https://github.com/slchorne/apibrowser) - 
+- [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
+- [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
 - [caxap/jsonobjects](https://github.com/caxap/jsonobjects) - jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.
 - [emolch/guts](https://github.com/emolch/guts) - Lightweight declarative YAML and XML data binding for Python
 - [hanneskod/classtools](https://github.com/hanneskod/classtools) - Find, extract and process php classes from the file system
