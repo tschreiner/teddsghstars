@@ -430,6 +430,7 @@
 
 ## homebrew 
 
+- [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
 - [mroach/misc](https://github.com/mroach/misc) - Miscellaneous scripts and configuration files from my life
 
 ## html 
@@ -578,6 +579,9 @@
 
 ## others 
 
+- [mock-server/mockserver-client-python](https://github.com/mock-server/mockserver-client-python) - A Python client for MockServer project. This client is code generated using the MockServer OpenAPI v3 specification.
+- [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
+- [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
 - [slchorne/apibrowser](https://github.com/slchorne/apibrowser) - 
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
