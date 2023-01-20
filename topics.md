@@ -93,6 +93,7 @@
 - [rest-api](#rest-api)
 - [ruby](#ruby)
 - [sass](#sass)
+- [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [shell](#shell)
@@ -170,6 +171,7 @@
 
 ## automation 
 
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
 - [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
@@ -277,6 +279,7 @@
 
 ## data-science 
 
+- [galliaproject/gallia-core](https://github.com/galliaproject/gallia-core) - A schema-aware Scala library for data transformation
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
@@ -301,6 +304,8 @@
 
 ## devops 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
@@ -407,6 +412,7 @@
 
 ## hacktoberfest 
 
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -483,6 +489,7 @@
 
 ## json 
 
+- [galliaproject/gallia-core](https://github.com/galliaproject/gallia-core) - A schema-aware Scala library for data transformation
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [davcd/jsonresume-theme-actual](https://github.com/davcd/jsonresume-theme-actual) - Actual theme for JSON Resume standard. Minimalist and modern resumes!
 - [kelyvin/jsonresume-theme-caffeine](https://github.com/kelyvin/jsonresume-theme-caffeine) - Caffeine theme for the JSON Resume project
@@ -579,6 +586,8 @@
 
 ## others 
 
+- [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
+- [galliaproject/gallia-medium-article](https://github.com/galliaproject/gallia-medium-article) - 
 - [mock-server/mockserver-client-python](https://github.com/mock-server/mockserver-client-python) - A Python client for MockServer project. This client is code generated using the MockServer OpenAPI v3 specification.
 - [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
 - [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
@@ -782,6 +791,7 @@
 
 ## python 
 
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [sourcery-ai/python-best-practices-cookiecutter](https://github.com/sourcery-ai/python-best-practices-cookiecutter) - Python best practices project cookiecutter 🍪
 - [x84net/idoitAPI](https://github.com/x84net/idoitAPI) - 
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
@@ -812,6 +822,8 @@
 
 ## python3 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
 
 ## pytorch 
@@ -844,6 +856,10 @@
 ## sass 
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+## scala 
+
+- [galliaproject/gallia-core](https://github.com/galliaproject/gallia-core) - A schema-aware Scala library for data transformation
 
 ## scikit-learn 
 
