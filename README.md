@@ -31,6 +31,7 @@
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Tcl](#tcl)
@@ -285,6 +286,9 @@
 
 ## Python 
 
+- [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
+- [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
+- [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
 - [mock-server/mockserver-client-python](https://github.com/mock-server/mockserver-client-python) - A Python client for MockServer project. This client is code generated using the MockServer OpenAPI v3 specification.
 - [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) - Cookiecutter template for a Python package.
 - [cjolowicz/cookiecutter-hypermodern-python](https://github.com/cjolowicz/cookiecutter-hypermodern-python) - Hypermodern Python Cookiecutter
@@ -395,6 +399,11 @@
 ## Rust 
 
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
+
+## Scala 
+
+- [galliaproject/gallia-core](https://github.com/galliaproject/gallia-core) - A schema-aware Scala library for data transformation
+- [galliaproject/gallia-medium-article](https://github.com/galliaproject/gallia-medium-article) - 
 
 ## Shell 
 
