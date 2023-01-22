@@ -287,6 +287,7 @@
 
 ## Python 
 
+- [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
