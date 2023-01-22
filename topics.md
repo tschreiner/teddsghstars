@@ -586,6 +586,7 @@
 
 ## others 
 
+- [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
 - [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
 - [galliaproject/gallia-medium-article](https://github.com/galliaproject/gallia-medium-article) - 
 - [mock-server/mockserver-client-python](https://github.com/mock-server/mockserver-client-python) - A Python client for MockServer project. This client is code generated using the MockServer OpenAPI v3 specification.
