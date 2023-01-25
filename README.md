@@ -201,6 +201,7 @@
 
 ## Others 
 
+- [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [manjunath5496/Biomechanics-Books](https://github.com/manjunath5496/Biomechanics-Books) - "Science needs no more progress, it has already progressed too far from happiness." ― Vineet Raj Kapoor
