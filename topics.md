@@ -586,6 +586,7 @@
 
 ## others 
 
+- [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
 - [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
 - [galliaproject/gallia-medium-article](https://github.com/galliaproject/gallia-medium-article) - 
