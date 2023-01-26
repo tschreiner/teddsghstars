@@ -24,6 +24,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
@@ -198,6 +199,10 @@
 - [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
 - [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
+
+## Nix 
+
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 
 ## Others 
 
