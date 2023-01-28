@@ -586,6 +586,8 @@
 
 ## others 
 
+- [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
+- [the-unbelievable-machine/ansible_collection_hpe](https://github.com/the-unbelievable-machine/ansible_collection_hpe) - Collection of plugins / roles / playbooks for management of HPE iLO.
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
