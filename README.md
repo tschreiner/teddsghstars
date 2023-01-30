@@ -47,6 +47,7 @@
 
 ## C 
 
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is a test tool to simulate thousands of PPPoE or IPoE subscribers including IPTV, L2TPv2, traffic verification and convergence testing capabilities.
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 
@@ -89,6 +90,8 @@
 
 ## Go 
 
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [willfaught/orm-and-rpc](https://github.com/willfaught/orm-and-rpc) - Presentation & prototype for ORM & RPC frameworks
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -119,6 +122,7 @@
 
 ## HTML 
 
+- [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
 - [Hafflgav/camunda-onboarding-process](https://github.com/Hafflgav/camunda-onboarding-process) - Onboarding Process showing the integration capabilities of Camunda
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
@@ -151,6 +155,9 @@
 
 ## JavaScript 
 
+- [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
+- [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [postmanlabs/postman-collection](https://github.com/postmanlabs/postman-collection) - Javascript module that allows a developer to work with Postman Collections
 - [postmanlabs/postman-code-generators](https://github.com/postmanlabs/postman-code-generators) - Common repository for all code generators shipped with Postman
 - [slchorne/apibrowser](https://github.com/slchorne/apibrowser) - 
@@ -178,6 +185,7 @@
 
 ## Jupyter Notebook 
 
+- [manpowertw/leafspine-ops](https://github.com/manpowertw/leafspine-ops) - 
 - [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
 - [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
@@ -294,6 +302,15 @@
 
 ## Python 
 
+- [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
+- [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
+- [HPENetworking/scriptsonly](https://github.com/HPENetworking/scriptsonly) - Repository Contains Sample Scripts for accessing HPE Networking Public APIs. All content is provided under an Apache2 license.
+- [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
+- [networktocode/ntc-soteria](https://github.com/networktocode/ntc-soteria) - ACL/Flow Auditing Tool based on Batfish
+- [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [tbotnz/netpalm](https://github.com/tbotnz/netpalm) - ReST based network device broker
+- [okta/samples-python-flask](https://github.com/okta/samples-python-flask) - samples-python-flask
 - [the-unbelievable-machine/ansible_collection_hpe](https://github.com/the-unbelievable-machine/ansible_collection_hpe) - Collection of plugins / roles / playbooks for management of HPE iLO.
 - [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
@@ -435,6 +452,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
 - [aharooms/jira-automate-transition](https://github.com/aharooms/jira-automate-transition) - 
