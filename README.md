@@ -24,6 +24,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -155,6 +156,7 @@
 
 ## JavaScript 
 
+- [renative-org/renative](https://github.com/renative-org/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -209,12 +211,17 @@
 - [Abolfazl-Mehranian/iMAR](https://github.com/Abolfazl-Mehranian/iMAR) - iterative metal artefact reduction
 - [cimentaur/polyquant](https://github.com/cimentaur/polyquant) - Matlab toolbox for polyenergetic quantitative (polyquant) X-ray CT reconstruction with demos.
 
+## Makefile 
+
+- [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
+
 ## Nix 
 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 
 ## Others 
 
+- [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -302,6 +309,9 @@
 
 ## Python 
 
+- [ktbyers/pynet](https://github.com/ktbyers/pynet) - Python for Network Engineers
+- [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
+- [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [HPENetworking/scriptsonly](https://github.com/HPENetworking/scriptsonly) - Repository Contains Sample Scripts for accessing HPE Networking Public APIs. All content is provided under an Apache2 license.
@@ -433,6 +443,7 @@
 
 ## Shell 
 
+- [mybasementcloud/bash_4_Check_Point_scripts](https://github.com/mybasementcloud/bash_4_Check_Point_scripts) - Collection of bash scripts for use on Check Point Gaia systems
 - [ipspace/VLAN-service](https://github.com/ipspace/VLAN-service) - Set of playbooks used to deploy a VLAN-based service.
 - [mroach/misc](https://github.com/mroach/misc) - Miscellaneous scripts and configuration files from my life
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
