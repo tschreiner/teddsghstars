@@ -26,8 +26,10 @@
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
 - [Nix](#nix)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Roff](#roff)
@@ -37,6 +39,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Tcl](#tcl)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
@@ -48,12 +51,16 @@
 
 ## C 
 
+- [CheckPointSW/cpmonitor](https://github.com/CheckPointSW/cpmonitor) - CPMonitor is a utility targeted to analyze traffic captured by tcpdump (www.tcpdump.org) / snoop (http://snoopwpf.codeplex.com/).
 - [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is a test tool to simulate thousands of PPPoE or IPoE subscribers including IPTV, L2TPv2, traffic verification and convergence testing capabilities.
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 
 ## C# # 
 
+- [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
+- [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
+- [CheckPointSW/SmartMove](https://github.com/CheckPointSW/SmartMove) - Check Point SmartMove tool enables you to convert 3rd party database with firewall security policy and NAT to Check Point database.
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 - [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 - [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
@@ -65,6 +72,7 @@
 
 ## C++ 
 
+- [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
@@ -91,6 +99,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
@@ -117,6 +126,7 @@
 
 ## HCL 
 
+- [metalstormbass/CloudGuard_WAAP_K8](https://github.com/metalstormbass/CloudGuard_WAAP_K8) - Demonstration of Check Point Shift Left and WAAP Products. Deployed using DevOps methodology
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [Azure/Enterprise-Scale-for-AVS](https://github.com/Azure/Enterprise-Scale-for-AVS) - Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment. This solution provides an architectural approach and reference i
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
@@ -139,6 +149,7 @@
 
 ## Java 
 
+- [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
 - [Fidentis/Analyst](https://github.com/Fidentis/Analyst) - Fidentis Analyst a target-orientated user-friendly computer interface for processing 3D meshes of human faces. The program enables a variety of 3D facial morphological analyses designed for forensic p
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
@@ -156,6 +167,8 @@
 
 ## JavaScript 
 
+- [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
 - [renative-org/renative](https://github.com/renative-org/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
@@ -187,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [drkostas/3D-Semantic-Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) - Semantic Segmentation with Transformers on 3D Medical Images
 - [manpowertw/leafspine-ops](https://github.com/manpowertw/leafspine-ops) - 
 - [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
 - [ArneTillmann/AuDoLab](https://github.com/ArneTillmann/AuDoLab) - 
@@ -219,8 +233,21 @@
 
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 
+## Objective-C 
+
+- [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
+
 ## Others 
 
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
+- [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
+- [vlevieux/Walrus-Operator-Use-Cases](https://github.com/vlevieux/Walrus-Operator-Use-Cases) - Walrus operator has been added in Python 3.8 and offer a plethora of possibilities.
+- [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator) - A curated list of awesome python decorator resources.
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+- [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+- [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) - Curating the best GPT3 tools and resources
+- [ghimiresunil/Top-AI-Tools](https://github.com/ghimiresunil/Top-AI-Tools) - Curated list of AI Tools
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms.
@@ -269,8 +296,13 @@
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
+## Perl 
+
+- [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, Groovy, M
+
 ## PowerShell 
 
+- [microsoft/PSRule-pipelines](https://github.com/microsoft/PSRule-pipelines) - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
 - [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
@@ -309,6 +341,34 @@
 
 ## Python 
 
+- [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
+- [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
+- [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
+- [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
+- [micheles/decorator](https://github.com/micheles/decorator) - decorator
+- [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [swapagarwal/JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger) - :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks
+- [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
+- [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
+- [drkostas/yaml-config-wrapper](https://github.com/drkostas/yaml-config-wrapper) - A YAML configuration wrapper.
+- [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
+- [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
+- [CheckPointSW/ChangedPolicies](https://github.com/CheckPointSW/ChangedPolicies) - Check Point ChangedPolicies tool allows the user to know which policies were affected by changes that were made in the last published session.
+- [CheckPointSW/UsefulManagementApiTools](https://github.com/CheckPointSW/UsefulManagementApiTools) - Check Point Useful Management API Tools contain scripts and tools that were used as solutions for customers.
+- [CheckPointSW/ExportObjects](https://github.com/CheckPointSW/ExportObjects) - Check Point ExportObjects tool enables you to export specific types of objects from a R80.10 and above Management database to a .csv file, which can then be imported into any other R80.10 and above Ma
+- [CheckPointSW/CheckPointAnsibleGAIACollection](https://github.com/CheckPointSW/CheckPointAnsibleGAIACollection) - An Ansible collection provides control over a Check Point machine using Check Point's web-services APIs.
+- [CheckPointSW/PolicyCleanUp](https://github.com/CheckPointSW/PolicyCleanUp) - Check Point PolicyCleanUp tool allows automatic cleanup of your policy based on hits count.
+- [CheckPointSW/CheckPointAnsibleMgmtCollection](https://github.com/CheckPointSW/CheckPointAnsibleMgmtCollection) - This Ansible collection provides control over a Check Point Management server using Check Point's web-services APIs.
+- [CheckPointSW/ExportImportPolicyPackage](https://github.com/CheckPointSW/ExportImportPolicyPackage) - Check Point ExportImportPolicyPackage tool enables you to export a policy package from a Management database to a .tar.gz file, which can then be imported into any other Management database. The tool 
+- [CheckPointSW/cpAnsible](https://github.com/CheckPointSW/cpAnsible) - Ansible module provides control over a Check Point Management server using Check Point's web-services APIs.
+- [CheckPointSW/cp_mgmt_api_python_sdk](https://github.com/CheckPointSW/cp_mgmt_api_python_sdk) - Check Point API Python Development Kit simplifies the use of the Check Point Management APIs.
+- [LetMeR00t/pyCheckpoint-API](https://github.com/LetMeR00t/pyCheckpoint-API) - Unofficial Python SDK for Checkpoint Firewalls
 - [ktbyers/pynet](https://github.com/ktbyers/pynet) - Python for Network Engineers
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
@@ -434,6 +494,7 @@
 
 ## Rust 
 
+- [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 
 ## Scala 
@@ -443,6 +504,9 @@
 
 ## Shell 
 
+- [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDA
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [mybasementcloud/bash_4_Check_Point_scripts](https://github.com/mybasementcloud/bash_4_Check_Point_scripts) - Collection of bash scripts for use on Check Point Gaia systems
 - [ipspace/VLAN-service](https://github.com/ipspace/VLAN-service) - Set of playbooks used to deploy a VLAN-based service.
 - [mroach/misc](https://github.com/mroach/misc) - Miscellaneous scripts and configuration files from my life
@@ -461,8 +525,16 @@
 
 - [HPENetworking/HPEIMCUtils](https://github.com/HPENetworking/HPEIMCUtils) - Collection of Utilities and Templates to extend HPE's Intelligent Management Center NMS Platform
 
+## TeX 
+
+- [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv) - YAAC: Another Awesome CV is a template using Font Awesome and Adobe Source Font.
+
 ## TypeScript 
 
+- [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [CheckPointSW/smart-console-extensions](https://github.com/CheckPointSW/smart-console-extensions) - An extension can use JavaScript to interact with SmartConsole. The interactions provide access to information, such as the extension location context, and can perform certain basic operations. For exa
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [fathyb/html2svg](https://github.com/fathyb/html2svg) - Convert HTML and `&lt;canvas&gt;` to SVG, PDF, or images using Chromium
 - [google/model-viewer](https://github.com/google/model-viewer) - Easily display interactive 3D models on the web and in AR!
