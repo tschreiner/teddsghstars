@@ -805,7 +805,6 @@
 - [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
 - [nornir-automation/nornir-tools](https://github.com/nornir-automation/nornir-tools) - Ready to use tools and examples written with Nornir
 - [deepmind/surface-distance](https://github.com/deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
-- [oahzxl/nicp](https://github.com/oahzxl/nicp) - Non-rigid Iterative Closest Point(NICP) fits 3d face meshes
 - [mrizwan18/Face3D-API](https://github.com/mrizwan18/Face3D-API) - API to send .jpg portrait and obtain .obj face mesh
 - [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
 - [Outsiders17711/streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
