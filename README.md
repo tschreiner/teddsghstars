@@ -239,6 +239,7 @@
 
 ## Others 
 
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [microsoft/vscode-tips-and-tricks](https://github.com/microsoft/vscode-tips-and-tricks) - Collection of helpful tips and tricks for VS Code.
 - [vlevieux/Walrus-Operator-Use-Cases](https://github.com/vlevieux/Walrus-Operator-Use-Cases) - Walrus operator has been added in Python 3.8 and offer a plethora of possibilities.
