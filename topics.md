@@ -511,6 +511,7 @@
 
 ## hacktoberfest 
 
+- [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [microsoft/PSRule-pipelines](https://github.com/microsoft/PSRule-pipelines) - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
@@ -602,6 +603,7 @@
 
 ## json 
 
+- [jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.
 - [NiklasRosenstein/python-databind](https://github.com/NiklasRosenstein/python-databind) - Databind is a library inspired by jackson-databind to de-/serialize Python dataclasses.
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
@@ -985,6 +987,8 @@
 
 ## python 
 
+- [jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.
+- [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 - [dgilland/pydash](https://github.com/dgilland/pydash) - The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library.
 - [NiklasRosenstein/python-databind](https://github.com/NiklasRosenstein/python-databind) - Databind is a library inspired by jackson-databind to de-/serialize Python dataclasses.
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
