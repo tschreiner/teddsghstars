@@ -729,6 +729,7 @@
 
 ## others 
 
+- [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
 - [ODM2/WOFpy](https://github.com/ODM2/WOFpy) - A server-side implementation of CUAHSI's Water One Flow service stack in Python.
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
 - [cloudbase/powershell-yaml](https://github.com/cloudbase/powershell-yaml) - PowerShell CmdLets for YAML format manipulation
