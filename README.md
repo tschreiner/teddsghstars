@@ -38,6 +38,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Svelte](#svelte)
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -58,6 +59,7 @@
 
 ## C# # 
 
+- [jonathancrozier/jc-samples-request-response](https://github.com/jonathancrozier/jc-samples-request-response) - An implementation of the Request-Response pattern using C# with JSON-RPC and WebSockets.
 - [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) - Virtual File System for Git: Enable Git at Enterprise Scale
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [CheckPointSW/SmartMove](https://github.com/CheckPointSW/SmartMove) - Check Point SmartMove tool enables you to convert 3rd party database with firewall security policy and NAT to Check Point database.
@@ -133,6 +135,7 @@
 
 ## HTML 
 
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
 - [Hafflgav/camunda-onboarding-process](https://github.com/Hafflgav/camunda-onboarding-process) - Onboarding Process showing the integration capabilities of Camunda
@@ -227,6 +230,7 @@
 
 ## Makefile 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 
 ## Nix 
@@ -239,6 +243,7 @@
 
 ## Others 
 
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [sfermigier/awesome-dependency-injection-in-python](https://github.com/sfermigier/awesome-dependency-injection-in-python) - A curated list of awesome things related to dependency inversion / dependency injection in Python. (Contributions welcomed).
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design) - A curated list of data oriented design resources.
@@ -345,6 +350,8 @@
 
 ## Python 
 
+- [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
@@ -507,6 +514,7 @@
 
 ## Rust 
 
+- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 
@@ -533,6 +541,10 @@
 ## Smarty 
 
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
+
+## Svelte 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
 ## Tcl 
 
