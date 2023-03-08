@@ -351,6 +351,7 @@
 
 ## Python 
 
+- [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
@@ -381,7 +382,7 @@
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - FastDup is a tool for gaining insights from a large image collection. It can find anomalies, duplicate and near duplicate images, clusters of similaritity, learn the normal behavior and temporal inter
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data oper
 - [CheckPointSW/ChangedPolicies](https://github.com/CheckPointSW/ChangedPolicies) - Check Point ChangedPolicies tool allows the user to know which policies were affected by changes that were made in the last published session.
 - [CheckPointSW/UsefulManagementApiTools](https://github.com/CheckPointSW/UsefulManagementApiTools) - Check Point Useful Management API Tools contain scripts and tools that were used as solutions for customers.
 - [CheckPointSW/ExportObjects](https://github.com/CheckPointSW/ExportObjects) - Check Point ExportObjects tool enables you to export specific types of objects from a R80.10 and above Management database to a .csv file, which can then be imported into any other R80.10 and above Ma
