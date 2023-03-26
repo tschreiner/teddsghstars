@@ -102,7 +102,7 @@
 ## Go 
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [acheong08/ChatGPT-API-server](https://github.com/acheong08/ChatGPT-API-server) - API server for ChatGPT
 - [willfaught/orm-and-rpc](https://github.com/willfaught/orm-and-rpc) - Presentation & prototype for ORM & RPC frameworks
