@@ -135,6 +135,7 @@
 
 ## HTML 
 
+- [i-doit/knowledge-base](https://github.com/i-doit/knowledge-base) - i-doit docs
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
@@ -351,6 +352,8 @@
 
 ## Python 
 
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
+- [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
 - [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
