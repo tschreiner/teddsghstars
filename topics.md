@@ -433,6 +433,7 @@
 
 ## documentation 
 
+- [i-doit/knowledge-base](https://github.com/i-doit/knowledge-base) - i-doit docs
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [kylelobo/The-Documentation-Compendium](https://github.com/kylelobo/The-Documentation-Compendium) - 📢 Various README templates & tips on writing high-quality documentation that people want to read.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -779,6 +780,7 @@
 
 ## others 
 
+- [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
 - [design-patterns-for-humans/en-US-python](https://github.com/design-patterns-for-humans/en-US-python) - 
 - [jonathancrozier/jc-samples-request-response](https://github.com/jonathancrozier/jc-samples-request-response) - An implementation of the Request-Response pattern using C# with JSON-RPC and WebSockets.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
@@ -1043,6 +1045,7 @@
 
 ## python 
 
+- [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
