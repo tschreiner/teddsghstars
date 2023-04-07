@@ -358,7 +358,7 @@
 - [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
 - [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
