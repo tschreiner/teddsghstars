@@ -791,6 +791,7 @@
 
 ## others 
 
+- [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
 - [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
 - [design-patterns-for-humans/en-US-python](https://github.com/design-patterns-for-humans/en-US-python) - 
