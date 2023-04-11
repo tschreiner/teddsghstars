@@ -245,6 +245,7 @@
 
 ## Others 
 
+- [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [design-patterns-for-humans/en-US-python](https://github.com/design-patterns-for-humans/en-US-python) - 
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
