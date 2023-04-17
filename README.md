@@ -348,6 +348,7 @@
 
 ## Python 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
 - [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
