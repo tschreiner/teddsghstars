@@ -211,6 +211,7 @@
 
 ## artificial-intelligence 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 
@@ -799,6 +800,7 @@
 
 ## others 
 
+- [networkingdvi/HPN-Scripting](https://github.com/networkingdvi/HPN-Scripting) - OpenSource collection of scripts that can be used with HP Networking devices
 - [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
 - [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
@@ -1048,6 +1050,7 @@
 
 ## powershell 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [microsoft/PSRule-pipelines](https://github.com/microsoft/PSRule-pipelines) - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
@@ -1255,6 +1258,7 @@
 
 ## terminal 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -1328,6 +1332,7 @@
 
 ## windows 
 
+- [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
