@@ -800,6 +800,7 @@
 
 ## others 
 
+- [hpreston/netdevops_demos](https://github.com/hpreston/netdevops_demos) - Resources and details for a variety of NetDevOps Demos.
 - [networkingdvi/HPN-Scripting](https://github.com/networkingdvi/HPN-Scripting) - OpenSource collection of scripts that can be used with HP Networking devices
 - [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
