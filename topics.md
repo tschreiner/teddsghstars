@@ -613,6 +613,7 @@
 
 ## ios 
 
+- [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 - [renative-org/renative](https://github.com/renative-org/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 
 ## iot 
@@ -800,6 +801,8 @@
 
 ## others 
 
+- [CheckPointSW/dynobj](https://github.com/CheckPointSW/dynobj) - 
+- [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [hpreston/netdevops_demos](https://github.com/hpreston/netdevops_demos) - Resources and details for a variety of NetDevOps Demos.
 - [networkingdvi/HPN-Scripting](https://github.com/networkingdvi/HPN-Scripting) - OpenSource collection of scripts that can be used with HP Networking devices
 - [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
@@ -1076,6 +1079,7 @@
 
 ## python 
 
+- [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
