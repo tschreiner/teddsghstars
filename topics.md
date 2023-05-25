@@ -118,6 +118,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
 - [spring](#spring)
@@ -953,7 +954,6 @@
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
 - [maddevsio/madflow](https://github.com/maddevsio/madflow) - Mad Flow is an internal project for company's process automation
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
@@ -1215,6 +1215,16 @@
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+
+## self-hosted 
+
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+- [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop 
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 ## shell 
 
