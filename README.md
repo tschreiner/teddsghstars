@@ -38,6 +38,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Smarty](#smarty)
+- [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -176,6 +177,7 @@
 
 ## JavaScript 
 
+- [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
 - [visjs/vis-timeline](https://github.com/visjs/vis-timeline) - 📅 Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
@@ -475,7 +477,7 @@
 - [xdai555/napalm-h3c-cw7-ssh](https://github.com/xdai555/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7 network devices.
 - [xdai555/textfsm_hpe_cmw7](https://github.com/xdai555/textfsm_hpe_cmw7) - Textfsm templates for HPE CMW7
 - [CodethinkLabs/ansible-hpe-cw7](https://github.com/CodethinkLabs/ansible-hpe-cw7) - Repository contains files required to support HPE Aruba Comware7 platforms in Ansible. Requires pyhpecw7 python library.
-- [firefly-serenity/napalm-flexfabric](https://github.com/firefly-serenity/napalm-flexfabric) - NAPALM driver for HPE FlexFabric hardware with Comware OS
+- [ffly90/napalm-flexfabric](https://github.com/ffly90/napalm-flexfabric) - NAPALM driver for HPE FlexFabric hardware with Comware OS
 - [napalm-automation-community/napalm-h3c-cw7-ssh](https://github.com/napalm-automation-community/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7, over SSH
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
@@ -560,6 +562,10 @@
 ## Smarty 
 
 - [clayshek/ans-pve-win-templ](https://github.com/clayshek/ans-pve-win-templ) - Ansible playbook to create Proxmox Windows VM templates
+
+## Starlark 
+
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
