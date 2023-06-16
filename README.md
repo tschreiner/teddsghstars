@@ -149,6 +149,7 @@
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [tayfun57/tayfun57.github.io](https://github.com/tayfun57/tayfun57.github.io) - Github Pages für meine Portfolio Webseite
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dsccommunity/dsccommunity.org](https://github.com/dsccommunity/dsccommunity.org) - DSC community organisation's website
 - [mxk/win10-secure-baseline-gpo](https://github.com/mxk/win10-secure-baseline-gpo) - Windows 10 and Server 2016 Secure Baseline Group Policy
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -220,7 +221,6 @@
 - [JanetLau0310/Medical-Image-Enhancement](https://github.com/JanetLau0310/Medical-Image-Enhancement) - common method to enhance some cbct image
 - [HenryJaQiu/nonlinear-string-simulation](https://github.com/HenryJaQiu/nonlinear-string-simulation) - Nonlinear spring simulation for soft tissues. The tissue data is from 'Modeling and Prediction of Soft Tissue Directional Stiffness using In-Vitro Force-Displacement Data'.
 - [HuyTu7/face_rating](https://github.com/HuyTu7/face_rating) - Face/Beauty Rating with both the traditional ML approaches and Convolutional Neural Network Approach
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
 ## Kotlin 
 
