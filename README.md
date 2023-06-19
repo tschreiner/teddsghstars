@@ -358,6 +358,8 @@
 
 ## Python 
 
+- [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
+- [ipspace/Box](https://github.com/ipspace/Box) - Python dictionaries with advanced dot notation access
 - [Twilio-org/rapid-response-kit](https://github.com/Twilio-org/rapid-response-kit) - This Twilio-powered Rapid Response Kit gives you the elements to build and deploy communications apps quickly and easily.
 - [sco1/flake8-annotations](https://github.com/sco1/flake8-annotations) - Flake8 Type Annotation Checking
 - [CheckPointSW/dynobj](https://github.com/CheckPointSW/dynobj) - 
