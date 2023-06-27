@@ -385,7 +385,7 @@
 - [ODM2/WOFpy](https://github.com/ODM2/WOFpy) - A server-side implementation of CUAHSI's Water One Flow service stack in Python.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [HariSekhon/DevOps-Python-tools](https://github.com/HariSekhon/DevOps-Python-tools) - 80+ DevOps & Data CLI Tools - AWS, GCP, GCF Python Cloud Functions, Log Anonymizer, Spark, Hadoop, HBase, Hive, Impala, Linux, Docker, Spark Data Converters & Validators (Avro/Parquet/JSON/CSV/INI/XML
 - [IBM/import-tracker](https://github.com/IBM/import-tracker) - Python utility for tracking third party dependencies within a library
 - [beeware/toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
