@@ -869,7 +869,7 @@
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [networktocode/ntc-soteria](https://github.com/networktocode/ntc-soteria) - ACL/Flow Auditing Tool based on Batfish
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [okta/samples-python-flask](https://github.com/okta/samples-python-flask) - samples-python-flask
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
