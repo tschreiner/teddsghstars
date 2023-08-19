@@ -975,7 +975,6 @@
 - [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
 - [pydio/cells](https://github.com/pydio/cells) - Future-proof content collaboration platform
-- [maddevsio/madflow](https://github.com/maddevsio/madflow) - Mad Flow is an internal project for company's process automation
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
