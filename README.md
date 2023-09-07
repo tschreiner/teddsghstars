@@ -208,6 +208,7 @@
 
 ## Jupyter Notebook 
 
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [drkostas/3D-Semantic-Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) - Semantic Segmentation with Transformers on 3D Medical Images
 - [manpowertw/leafspine-ops](https://github.com/manpowertw/leafspine-ops) - 
 - [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
@@ -362,7 +363,6 @@
 - [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 - [hpreston/netdevops_demos](https://github.com/hpreston/netdevops_demos) - Resources and details for a variety of NetDevOps Demos.
 - [networkingdvi/HPN-Scripting](https://github.com/networkingdvi/HPN-Scripting) - OpenSource collection of scripts that can be used with HP Networking devices
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
 - [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
