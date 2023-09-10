@@ -124,6 +124,7 @@
 
 ## Groovy 
 
+- [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
 - [florian1881/atlassian-custom](https://github.com/florian1881/atlassian-custom) - 
 
 ## HCL 
@@ -247,6 +248,7 @@
 
 ## Others 
 
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [design-patterns-for-humans/en-US-python](https://github.com/design-patterns-for-humans/en-US-python) - 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -353,6 +355,10 @@
 
 ## Python 
 
+- [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
+- [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [scrapinghub/splash](https://github.com/scrapinghub/splash) - Lightweight, scriptable browser as a service with an HTTP API
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
@@ -575,6 +581,7 @@
 
 ## TypeScript 
 
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
