@@ -141,6 +141,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [Hafflgav/camunda-onboarding-process](https://github.com/Hafflgav/camunda-onboarding-process) - Onboarding Process showing the integration capabilities of Camunda
 - [jsonresume/jsonresume-theme-boilerplate](https://github.com/jsonresume/jsonresume-theme-boilerplate) - Boilerplate theme for JSON Resume.
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
@@ -309,7 +310,7 @@
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
-- [cachethq/cachet](https://github.com/cachethq/cachet) - The open-source status page system 🚦
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 The open-source status page system.
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
@@ -484,7 +485,6 @@
 - [ffly90/napalm-flexfabric](https://github.com/ffly90/napalm-flexfabric) - NAPALM driver for HPE FlexFabric hardware with Comware OS
 - [napalm-automation-community/napalm-h3c-cw7-ssh](https://github.com/napalm-automation-community/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7, over SSH
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
-- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 - [ipspace/ansible-examples](https://github.com/ipspace/ansible-examples) - Ansible Examples
 - [xod442/pyhpeezmerel](https://github.com/xod442/pyhpeezmerel) - Python binding for HPE Ezmerel Rest API
 - [pieper/SlicerTissue](https://github.com/pieper/SlicerTissue) - A collection of finite element code for simulation of soft tissue mechanics
