@@ -46,6 +46,7 @@
 
 ## Batchfile 
 
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
 - [aghorler/Windows-10-Hardening](https://github.com/aghorler/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
 
@@ -172,7 +173,7 @@
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
 - [openwms/org.openwms](https://github.com/openwms/org.openwms) - Open Warehouse Management System
@@ -549,6 +550,7 @@
 
 ## Rust 
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
