@@ -609,6 +609,7 @@
 
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
