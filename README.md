@@ -185,7 +185,7 @@
 
 ## JavaScript 
 
-- [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🚀 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
+- [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
@@ -371,6 +371,7 @@
 
 ## Python 
 
+- [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
 - [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
