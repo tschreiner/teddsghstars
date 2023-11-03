@@ -128,6 +128,7 @@
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+- [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 Secure Group Policy
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
@@ -157,7 +158,6 @@
 - [tayfun57/tayfun57.github.io](https://github.com/tayfun57/tayfun57.github.io) - Github Pages für meine Portfolio Webseite
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [dsccommunity/dsccommunity.org](https://github.com/dsccommunity/dsccommunity.org) - DSC community organisation's website
-- [mxk/win10-secure-baseline-gpo](https://github.com/mxk/win10-secure-baseline-gpo) - Windows 10 and Server 2016 Secure Baseline Group Policy
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Handlebars 
