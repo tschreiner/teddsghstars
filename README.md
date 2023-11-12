@@ -39,6 +39,7 @@
 - [Shell](#shell)
 - [Smarty](#smarty)
 - [Starlark](#starlark)
+- [Swift](#swift)
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -310,6 +311,7 @@
 
 ## PHP 
 
+- [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
 - [D4RK-R4BB1T/Dark-Web-Archives](https://github.com/D4RK-R4BB1T/Dark-Web-Archives) - Archives of the criminal side of the internet
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
@@ -593,6 +595,10 @@
 ## Starlark 
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
+
+## Swift 
+
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 
 ## Tcl 
 
