@@ -374,6 +374,8 @@
 
 ## Python 
 
+- [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
+- [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
 - [flairNLP/flair](https://github.com/flairNLP/flair) - A very simple framework for state-of-the-art Natural Language Processing (NLP)
@@ -556,6 +558,7 @@
 
 ## Ruby 
 
+- [vyorkin-personal/synchronisable](https://github.com/vyorkin-personal/synchronisable) - Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)
 - [programmercv/resume_exporter](https://github.com/programmercv/resume_exporter) - A ruby gem to export public résumé data from various sources (LinkedIn, Xing, Stackoverflow) to json or xml
 - [umich-arc/windows-packer-templates](https://github.com/umich-arc/windows-packer-templates) - Windows Image templates for Packer.
 
