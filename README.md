@@ -55,7 +55,7 @@
 ## C 
 
 - [CheckPointSW/cpmonitor](https://github.com/CheckPointSW/cpmonitor) - CPMonitor is a utility targeted to analyze traffic captured by tcpdump (www.tcpdump.org) / snoop (http://snoopwpf.codeplex.com/).
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is a test tool to simulate thousands of PPPoE or IPoE subscribers including IPTV, L2TPv2, traffic verification and convergence testing capabilities.
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.
 - [signalwire/freeswitch](https://github.com/signalwire/freeswitch) - FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a 
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
 
