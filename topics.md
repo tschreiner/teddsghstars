@@ -73,6 +73,7 @@
 - [homebrew](#homebrew)
 - [html](#html)
 - [html5](#html5)
+- [http](#http)
 - [image-processing](#image-processing)
 - [ios](#ios)
 - [iot](#iot)
@@ -639,7 +640,7 @@
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
-- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is a test tool to simulate thousands of PPPoE or IPoE subscribers including IPTV, L2TPv2, traffic verification and convergence testing capabilities.
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
@@ -676,6 +677,10 @@
 ## html5 
 
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+
+## http 
+
+- [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The BNG Blaster is an open-source network tester for access and routing protocols.
 
 ## image-processing 
 
