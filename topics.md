@@ -1497,7 +1497,7 @@
 - [ztrhgf/Powershell_CICD_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution 
 - [SwiftOnSecurity/OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [lithnet/idle-logoff](https://github.com/lithnet/idle-logoff) - A group-policy enabled utility for logging off idle windows user sessions
-- [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 Secure Group Policy
+- [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 secure group policy for standalone devices
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
 ## wordpress 
