@@ -51,6 +51,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
 - [aghorler/Windows-10-Hardening](https://github.com/aghorler/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
+- [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 secure group policy for standalone devices
 
 ## C 
 
@@ -129,7 +130,6 @@
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 Secure Group Policy
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
