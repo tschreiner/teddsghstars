@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
