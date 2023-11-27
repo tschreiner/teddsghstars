@@ -222,6 +222,8 @@
 
 ## Jupyter Notebook 
 
+- [acalio/trending-github](https://github.com/acalio/trending-github) - 
+- [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
 - [drkostas/3D-Semantic-Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) - Semantic Segmentation with Transformers on 3D Medical Images
 - [manpowertw/leafspine-ops](https://github.com/manpowertw/leafspine-ops) - 
 - [pariyamd/CBCT-to-OPG-Medical-Image-Analysis-](https://github.com/pariyamd/CBCT-to-OPG-Medical-Image-Analysis-) - notebooks on 3D visualizations of a dicom series files which is read by pydicom
