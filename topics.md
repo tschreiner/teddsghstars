@@ -901,6 +901,8 @@
 
 ## others 
 
+- [acalio/trending-github](https://github.com/acalio/trending-github) - 
+- [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain
 - [vyorkin-personal/synchronisable](https://github.com/vyorkin-personal/synchronisable) - Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
