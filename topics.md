@@ -416,6 +416,7 @@
 
 ## data-structures 
 
+- [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 
@@ -625,6 +626,7 @@
 
 ## hacktoberfest 
 
+- [syndesisio/syndesis](https://github.com/syndesisio/syndesis) - A flexible, customizable, open source platform that provides core integration capabilities as a service.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -736,6 +738,7 @@
 
 ## json 
 
+- [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [jsonpickle/jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON. It can take almost any Python object and turn the object into JSON. Additionally, it can reconstitute the object back into Python.
 - [NiklasRosenstein/python-databind](https://github.com/NiklasRosenstein/python-databind) - Databind is a library inspired by jackson-databind to de-/serialize Python dataclasses.
@@ -901,6 +904,7 @@
 
 ## others 
 
+- [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
 - [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain
@@ -1069,7 +1073,6 @@
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
-- [SSWConsulting/SSWSysAdmins.CreateADUser](https://github.com/SSWConsulting/SSWSysAdmins.CreateADUser) - Automatically create an AD User, using Microsoft Forms. Automation is done with Power Automate (was Flow) calling PowerShell
 - [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
 - [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
 - [802-1x/Compliance](https://github.com/802-1x/Compliance) - 
@@ -1150,6 +1153,7 @@
 
 ## php 
 
+- [Smoren/schemator-php](https://github.com/Smoren/schemator-php) - Schematic data mapper and nested access tools
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
@@ -1196,6 +1200,7 @@
 
 ## python 
 
+- [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
@@ -1293,6 +1298,8 @@
 
 ## react 
 
+- [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
+- [aliyun/data-mapping-component](https://github.com/aliyun/data-mapping-component) - A React Component which focus on Data-Mapping & Table-Field-Mapping.(基于React的数据/表字段映射组件)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -1468,6 +1475,7 @@
 
 ## vue 
 
+- [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
@@ -1519,6 +1527,7 @@
 
 ## xml 
 
+- [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 
 
