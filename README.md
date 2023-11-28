@@ -167,6 +167,7 @@
 
 ## Java 
 
+- [syndesisio/syndesis](https://github.com/syndesisio/syndesis) - A flexible, customizable, open source platform that provides core integration capabilities as a service.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
 - [mock-server/mockserver](https://github.com/mock-server/mockserver) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
@@ -186,6 +187,8 @@
 
 ## JavaScript 
 
+- [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
+- [aliyun/data-mapping-component](https://github.com/aliyun/data-mapping-component) - A React Component which focus on Data-Mapping & Table-Field-Mapping.(基于React的数据/表字段映射组件)
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [cidrblock/drawthe.net](https://github.com/cidrblock/drawthe.net) - drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting 
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -313,6 +316,8 @@
 
 ## PHP 
 
+- [Smoren/schemator-php](https://github.com/Smoren/schemator-php) - Schematic data mapper and nested access tools
+- [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
 - [D4RK-R4BB1T/Dark-Web-Archives](https://github.com/D4RK-R4BB1T/Dark-Web-Archives) - Archives of the criminal side of the internet
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
@@ -341,7 +346,6 @@
 - [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
 - [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
-- [SSWConsulting/SSWSysAdmins.CreateADUser](https://github.com/SSWConsulting/SSWSysAdmins.CreateADUser) - Automatically create an AD User, using Microsoft Forms. Automation is done with Power Automate (was Flow) calling PowerShell
 - [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
 - [802-1x/Compliance](https://github.com/802-1x/Compliance) - 
 - [khanson66/SnipeITAgent](https://github.com/khanson66/SnipeITAgent) - 
@@ -376,6 +380,7 @@
 
 ## Python 
 
+- [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
