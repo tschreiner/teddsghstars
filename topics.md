@@ -14,6 +14,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
+- [aspnet](#aspnet)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -33,6 +34,8 @@
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
+- [cpp](#cpp)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data](#data)
@@ -52,11 +55,13 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
 - [flutter](#flutter)
 - [framework](#framework)
 - [frontend](#frontend)
+- [games](#games)
 - [gis](#gis)
 - [git](#git)
 - [github](#github)
@@ -93,6 +98,7 @@
 - [markdown](#markdown)
 - [matlab](#matlab)
 - [maven](#maven)
+- [mobile](#mobile)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -114,6 +120,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -123,6 +130,7 @@
 - [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
+- [reverse-engineering](#reverse-engineering)
 - [ruby](#ruby)
 - [rust](#rust)
 - [sass](#sass)
@@ -155,6 +163,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [xamarin](#xamarin)
 - [xml](#xml)
 
 ## 3d 
@@ -171,6 +180,7 @@
 
 ## ai 
 
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports LLaMa2, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -179,6 +189,7 @@
 
 ## algorithm 
 
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
@@ -191,6 +202,7 @@
 
 ## android 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
 - [flexn-io/renative](https://github.com/flexn-io/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
@@ -198,6 +210,7 @@
 
 ## angular 
 
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
@@ -230,13 +243,19 @@
 
 ## artificial-intelligence 
 
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [kuprel/min-dalle](https://github.com/kuprel/min-dalle) - min(DALL·E) is a fast, minimal port of DALL·E Mini to PyTorch
 
+## aspnet 
+
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms.
+
 ## automation 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -251,6 +270,8 @@
 
 ## awesome 
 
+- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -271,6 +292,7 @@
 
 ## awesome-list 
 
+- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -384,6 +406,17 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 
+## cpp 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+
+## csharp 
+
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms.
+
 ## css 
 
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
@@ -467,11 +500,13 @@
 
 ## django 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
 
 ## docker 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
@@ -497,6 +532,9 @@
 
 ## dotnet 
 
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [App-vNext/Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
 
 ## education 
@@ -513,6 +551,11 @@
 ## emacs 
 
 - [daviderestivo/comware-router-mode](https://github.com/daviderestivo/comware-router-mode) - Major mode for editing Comware configuration files
+
+## finance 
+
+- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 ## firefox 
 
@@ -533,6 +576,8 @@
 
 ## framework 
 
+- [abpframework/abp](https://github.com/abpframework/abp) - Open Source Web Application Framework for ASP.NET Core. Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET and the ASP.NET Core platforms.
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
@@ -542,6 +587,10 @@
 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
+
+## games 
+
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 
 ## gis 
 
@@ -584,6 +633,7 @@
 
 ## golang 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -626,6 +676,10 @@
 
 ## hacktoberfest 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
+- [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+- [ardalis/CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [syndesisio/syndesis](https://github.com/syndesisio/syndesis) - A flexible, customizable, open source platform that provides core integration capabilities as a service.
 - [glpi-project/glpi](https://github.com/glpi-project/glpi) - GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -695,6 +749,7 @@
 
 ## ios 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [cidrblock/netcopa](https://github.com/cidrblock/netcopa) - Network Configuration Parser
 - [flexn-io/renative](https://github.com/flexn-io/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 
@@ -705,6 +760,7 @@
 
 ## java 
 
+- [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [OrienteerBAP/Orienteer](https://github.com/OrienteerBAP/Orienteer) - Business Application Platform - no-code/low-code platform to build business applications
@@ -715,6 +771,7 @@
 
 ## javascript 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -790,6 +847,7 @@
 
 ## linux 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -817,6 +875,7 @@
 
 ## macos 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - DevToys For mac
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
@@ -839,6 +898,10 @@
 
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 
+## mobile 
+
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
+
 ## mongodb 
 
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
@@ -858,6 +921,7 @@
 
 ## nextjs 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
@@ -904,6 +968,12 @@
 
 ## others 
 
+- [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
+- [roboflow/multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision or LLaVA. 🔥
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - 
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
 - [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
@@ -1154,6 +1224,7 @@
 
 ## php 
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [Smoren/schemator-php](https://github.com/Smoren/schemator-php) - Schematic data mapper and nested access tools
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
@@ -1169,6 +1240,7 @@
 
 ## postgresql 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1195,12 +1267,19 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :bookmark: +5K awesome resources for geeks and software crafters :beer:
 
+## project-management 
+
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+
 ## pwa 
 
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 
 ## python 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
@@ -1299,6 +1378,7 @@
 
 ## react 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [aliyun/data-mapping-component](https://github.com/aliyun/data-mapping-component) - A React Component which focus on Data-Mapping & Table-Field-Mapping.(基于React的数据/表字段映射组件)
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -1321,10 +1401,15 @@
 
 ## rest-api 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 - [reagento/dataclass-rest](https://github.com/reagento/dataclass-rest) - A modern and simple way to create clients for REST like APIs
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
+
+## reverse-engineering 
+
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 
 ## ruby 
 
@@ -1364,6 +1449,7 @@
 
 ## self-hosted 
 
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
@@ -1413,6 +1499,7 @@
 
 ## symfony 
 
+- [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [oroinc/platform](https://github.com/oroinc/platform) - Main OroPlatform package with core functionality.
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
@@ -1450,6 +1537,8 @@
 
 ## typescript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool  / ChatBot  / Zapier Alternative
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [amplication/amplication](https://github.com/amplication/amplication) - 🇮🇱 Stand with Israel 🇮🇱   Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -1463,6 +1552,7 @@
 
 ## unity 
 
+- [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 
 ## vagrant 
@@ -1507,6 +1597,7 @@
 
 ## windows 
 
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1525,6 +1616,10 @@
 ## wordpress 
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+## xamarin 
+
+- [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 
 ## xml 
 
