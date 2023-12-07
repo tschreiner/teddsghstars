@@ -231,7 +231,6 @@
 
 ## api 
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
 - [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
@@ -462,7 +461,7 @@
 
 ## database 
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [portphp/portphp](https://github.com/portphp/portphp) - Data import/export framework for PHP
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 
@@ -985,7 +984,7 @@
 - [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
 - [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a small yet powerful tool to extend your pydantic schema with no pain.  It is the key to the realm of composable development pattern
 - [vyorkin-personal/synchronisable](https://github.com/vyorkin-personal/synchronisable) - Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
@@ -1427,7 +1426,7 @@
 ## rust 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 
