@@ -237,7 +237,7 @@
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
 - [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
 - [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
-- [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - hcloud-python is a library for the Hetzner Cloud API.
+- [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - A Python library for the Hetzner Cloud API
 - [zatosource/zato](https://github.com/zatosource/zato) - ESB, SOA, REST, APIs and Cloud Integrations in Python
 - [snazy2000/SnipeitPS](https://github.com/snazy2000/SnipeitPS) - Powershell API Wrapper for Snipe-it
 - [zalando/restful-api-guidelines](https://github.com/zalando/restful-api-guidelines) - A model set of guidelines for RESTful APIs and Events, created by Zalando
@@ -1348,7 +1348,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [wearefair/modelmapper](https://github.com/wearefair/modelmapper) - Deterministic Data Driven Schema Modeling: Auto generate SQLalchemy models, cleaning and normalization functions from your csv files!
 - [networktocode/diffsync](https://github.com/networktocode/diffsync) - A utility library for comparing and synchronizing different datasets.
-- [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - hcloud-python is a library for the Hetzner Cloud API.
+- [hetznercloud/hcloud-python](https://github.com/hetznercloud/hcloud-python) - A Python library for the Hetzner Cloud API
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Pydantic model and dataclasses.dataclass generator for easy conversion of JSON, OpenAPI, JSON Schema, and YAML data sources.
 - [reagento/dataclass-rest](https://github.com/reagento/dataclass-rest) - A modern and simple way to create clients for REST like APIs
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
