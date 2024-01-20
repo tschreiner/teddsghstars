@@ -237,10 +237,12 @@
 
 ## Jinja 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
 
 ## Jupyter Notebook 
 
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
 - [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
@@ -401,6 +403,8 @@
 
 ## Python 
 
+- [MetaVisionLab/MetaFBP](https://github.com/MetaVisionLab/MetaFBP) - MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction (ACM MM 2023)
+- [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [sculptor2022/sculptor](https://github.com/sculptor2022/sculptor) - 
 - [charlesq34/pointnet2](https://github.com/charlesq34/pointnet2) - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
 - [elifiner/pydump](https://github.com/elifiner/pydump) - Create coredump like file from Python to post-mortem debug later
