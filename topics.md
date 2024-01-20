@@ -220,6 +220,7 @@
 
 ## ansible 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [CheckPointSW/CheckPointAnsibleGAIACollection](https://github.com/CheckPointSW/CheckPointAnsibleGAIACollection) - An Ansible collection provides control over a Check Point machine using Check Point's web-services APIs.
 - [CheckPointSW/CheckPointAnsibleMgmtCollection](https://github.com/CheckPointSW/CheckPointAnsibleMgmtCollection) - This Ansible collection provides control over a Check Point Management server using Check Point's web-services APIs.
 - [jerikan-network/cmdb](https://github.com/jerikan-network/cmdb) - Jerikan: a configuration management system for network teams
@@ -312,6 +313,7 @@
 
 ## aws 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - DevOps Templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Lambda, AWS CodeBuild, GCP Cloud Build, Vagrant, Puppet, Python, Bash, Go, Perl, Java, Scala, G
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -473,6 +475,7 @@
 
 ## deep-learning 
 
+- [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [charlesq34/pointnet2](https://github.com/charlesq34/pointnet2) - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
 - [Maxlo24/ALI_CBCT](https://github.com/Maxlo24/ALI_CBCT) - Automatic landmark identification in CBCT scans
 - [DCBIA-OrthoLab/SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) - A 3D Slicer extension to use AMASSS, ALI-CBCT and ALI-IOS
@@ -693,6 +696,7 @@
 
 ## hacktoberfest 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
@@ -836,6 +840,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [recommenders-team/recommenders](https://github.com/recommenders-team/recommenders) - Best Practices on Recommendation Systems
 - [HariSekhon/Dockerfiles](https://github.com/HariSekhon/Dockerfiles) - 50+ DockerHub public images for Docker & Kubernetes - DevOps, CI/CD, GitHub Actions, CircleCI, Jenkins, TeamCity, Alpine, CentOS, Debian, Fedora, Ubuntu, Hadoop, Kafka, ZooKeeper, HBase, Cassandra, So
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LD
@@ -883,6 +888,7 @@
 
 ## machine-learning 
 
+- [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [Maxlo24/ALI_CBCT](https://github.com/Maxlo24/ALI_CBCT) - Automatic landmark identification in CBCT scans
 - [DCBIA-OrthoLab/SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) - A 3D Slicer extension to use AMASSS, ALI-CBCT and ALI-IOS
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
@@ -1000,6 +1006,8 @@
 
 ## others 
 
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+- [MetaVisionLab/MetaFBP](https://github.com/MetaVisionLab/MetaFBP) - MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction (ACM MM 2023)
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [sculptor2022/sculptor](https://github.com/sculptor2022/sculptor) - 
 - [elifiner/pydump](https://github.com/elifiner/pydump) - Create coredump like file from Python to post-mortem debug later
@@ -1473,6 +1481,7 @@
 
 ## scikit-learn 
 
+- [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [HuyTu7/face_rating](https://github.com/HuyTu7/face_rating) - Face/Beauty Rating with both the traditional ML approaches and Convolutional Neural Network Approach
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
@@ -1548,6 +1557,7 @@
 
 ## tensorflow 
 
+- [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [src-d/hercules](https://github.com/src-d/hercules) - Gaining advanced insights from Git repository history.
 - [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
