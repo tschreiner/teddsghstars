@@ -276,7 +276,7 @@
 
 ## awesome 
 
-- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -298,7 +298,7 @@
 
 ## awesome-list 
 
-- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -568,7 +568,7 @@
 
 ## finance 
 
-- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
+- [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 ## firefox 
@@ -1007,6 +1007,9 @@
 
 ## others 
 
+- [sweetsweet-hub/ConvLab](https://github.com/sweetsweet-hub/ConvLab) - 
+- [282857341/nnFormer](https://github.com/282857341/nnFormer) - 
+- [TimoBolkart/FLAME-Universe](https://github.com/TimoBolkart/FLAME-Universe) - Summary of publicly available ressources such as code, datasets, and scientific papers for the FLAME 3D head model
 - [RPIDIAL/Facial_Simulation](https://github.com/RPIDIAL/Facial_Simulation) - Correspondence attention for facial appearance simulation
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
