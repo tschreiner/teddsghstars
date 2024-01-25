@@ -90,6 +90,7 @@
 
 ## C++ 
 
+- [MeshFEM/MeshFEM](https://github.com/MeshFEM/MeshFEM) - Finite Element Codebase for Triangle/Tetrahedral Meshes
 - [TadasBaltrusaitis/CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework) - CLM-framework (a.k.a Cambridge Face Tracker) is a framework for various Constrained Local Model based face tracking and landmark detection algorithms and their extensions/applications. Includes CLM-Z 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [anbox/anbox](https://github.com/anbox/anbox) - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
@@ -244,6 +245,7 @@
 
 ## Jupyter Notebook 
 
+- [simpeg/tle-finitevolume](https://github.com/simpeg/tle-finitevolume) - Geophysical Tutorial - Pixels and their neighbors: Finite volume
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Examples and recipes for Llama 2 model
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -288,6 +290,9 @@
 
 ## Others 
 
+- [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
+- [paulgolter/blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
+- [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of awesome DICOM resources and libraries.
 - [TimoBolkart/FLAME-Universe](https://github.com/TimoBolkart/FLAME-Universe) - Summary of publicly available ressources such as code, datasets, and scientific papers for the FLAME 3D head model
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -408,6 +413,9 @@
 
 ## Python 
 
+- [RasmusRPaulsen/Deep-MVLM](https://github.com/RasmusRPaulsen/Deep-MVLM) - A tool for precisely placing 3D landmarks on 3D facial scans based on the paper "Multi-view Consensus CNN for 3D Facial Landmark Placement"
+- [YuchenZhang-Academic/3D-Facial-Landmark](https://github.com/YuchenZhang-Academic/3D-Facial-Landmark) - Code of paper "An Automated Method of 3D Facial Soft Tissue Landmark Prediction based on Object Detection and Deep Learning"
+- [vlukes/dicom2fem](https://github.com/vlukes/dicom2fem) - Generation of finite element meshes using computed tomography scans
 - [sweetsweet-hub/ConvLab](https://github.com/sweetsweet-hub/ConvLab) - 
 - [282857341/nnFormer](https://github.com/282857341/nnFormer) - 
 - [RPIDIAL/Facial_Simulation](https://github.com/RPIDIAL/Facial_Simulation) - Correspondence attention for facial appearance simulation
@@ -683,7 +691,7 @@
 - [JMPerez/linkedin-to-json-resume](https://github.com/JMPerez/linkedin-to-json-resume) - An exporter from a LinkedIn profile to JSON Résumé
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [genieacs/genieacs](https://github.com/genieacs/genieacs) - A fast and lightweight TR-069 Auto Configuration Server (ACS)
 
