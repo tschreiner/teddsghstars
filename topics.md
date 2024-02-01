@@ -62,6 +62,9 @@
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
 - [frontend](#frontend)
+- [game-development](#game-development)
+- [game-engine](#game-engine)
+- [gamedev](#gamedev)
 - [games](#games)
 - [gis](#gis)
 - [git](#git)
@@ -160,6 +163,7 @@
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
+- [virtual-reality](#virtual-reality)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -292,7 +296,7 @@
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
@@ -309,7 +313,7 @@
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [vitalets/awesome-smart-tv](https://github.com/vitalets/awesome-smart-tv) - :zap:A curated list of awesome resources for building Smart TV apps
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [zenitysec/awesome-low-code](https://github.com/zenitysec/awesome-low-code) - Awesome Low Code platforms, vendors, tools and resources
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
@@ -513,7 +517,7 @@
 - [opsdroid/opsdroid](https://github.com/opsdroid/opsdroid) - 🤖 An open source chat-ops bot framework
 - [errbotio/errbot](https://github.com/errbotio/errbot) - Errbot is a chatbot, a daemon that connects to your favorite chat service and bring your tools and some fun into the conversation.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
@@ -613,6 +617,18 @@
 
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
+
+## game-development 
+
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+
+## game-engine 
+
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+
+## gamedev 
+
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 
 ## games 
 
@@ -804,6 +820,8 @@
 
 ## javascript 
 
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A JavaScript library for creating node-based graphs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
@@ -986,6 +1004,7 @@
 
 ## nodejs 
 
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1021,6 +1040,9 @@
 
 ## others 
 
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Issue tracker for the PlayCanvas Editor
+- [playcanvas/playcanvas-observer](https://github.com/playcanvas/playcanvas-observer) - Contains the Observer class and related functionality used across the PlayCanvas Editor, pcui etc.
+- [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [YuchenZhang-Academic/3D-Facial-Landmark](https://github.com/YuchenZhang-Academic/3D-Facial-Landmark) - Code of paper "An Automated Method of 3D Facial Soft Tissue Landmark Prediction based on Object Detection and Deep Learning"
 - [paulgolter/blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
@@ -1336,7 +1358,7 @@
 ## programming 
 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 
 ## project-management 
 
@@ -1348,6 +1370,7 @@
 
 ## python 
 
+- [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 PyAudio | PortAudio fork with WASAPI loopback support 🔊 Record audio from speakers on Windows
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
@@ -1468,6 +1491,7 @@
 
 ## reactjs 
 
+- [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A JavaScript library for creating node-based graphs
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [flexn-io/renative](https://github.com/flexn-io/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
@@ -1519,7 +1543,7 @@
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [vletoux/pingcastle](https://github.com/vletoux/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 
@@ -1543,7 +1567,7 @@
 
 ## software 
 
-- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/morgan/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
+- [MorganGeek/bookmarks](https://github.com/MorganGeek/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
 - [asjimene/CMPackager](https://github.com/asjimene/CMPackager) - Creates ConfigMgr Applications using XML Recipe Files
 
 ## spring 
@@ -1615,6 +1639,7 @@
 
 ## typescript 
 
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
@@ -1642,6 +1667,10 @@
 ## vim 
 
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
+
+## virtual-reality 
+
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 
 ## vue 
 
@@ -1677,6 +1706,7 @@
 
 ## windows 
 
+- [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 PyAudio | PortAudio fork with WASAPI loopback support 🔊 Record audio from speakers on Windows
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
