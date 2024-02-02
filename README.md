@@ -24,6 +24,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Logos](#logos)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Makefile](#makefile)
@@ -64,6 +65,7 @@
 
 ## C# # 
 
+- [chrismarch/SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) - Squish! A quick exploration of mesh deformation in response to collision
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
 - [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
@@ -166,6 +168,7 @@
 
 ## HTML 
 
+- [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [i-doit/knowledge-base](https://github.com/i-doit/knowledge-base) - i-doit docs
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -267,6 +270,10 @@
 
 - [dbrant/ModelViewer3D](https://github.com/dbrant/ModelViewer3D) - 3D model viewer app (STL, OBJ, PLY) for Android.
 - [StephenOTT/TAXII-Server](https://github.com/StephenOTT/TAXII-Server) - TAXII Server supporting the 2.1 spec.
+
+## Logos 
+
+- [NIA/crash-and-squeeze](https://github.com/NIA/crash-and-squeeze) - A system for simulating plastic deformation of a 3D model for virtual reality applications
 
 ## Lua 
 
@@ -418,6 +425,8 @@
 
 ## Python 
 
+- [maroba/findiff](https://github.com/maroba/findiff) - Python package for numerical derivatives and partial differential equations in any number of dimensions.
+- [YukunXia/Mass-Spring-System-for-Soft-Body-Simulation](https://github.com/YukunXia/Mass-Spring-System-for-Soft-Body-Simulation) - 
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [RasmusRPaulsen/Deep-MVLM](https://github.com/RasmusRPaulsen/Deep-MVLM) - A tool for precisely placing 3D landmarks on 3D facial scans based on the paper "Multi-view Consensus CNN for 3D Facial Landmark Placement"
 - [YuchenZhang-Academic/3D-Facial-Landmark](https://github.com/YuchenZhang-Academic/3D-Facial-Landmark) - Code of paper "An Automated Method of 3D Facial Soft Tissue Landmark Prediction based on Object Detection and Deep Learning"
