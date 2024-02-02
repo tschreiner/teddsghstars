@@ -820,6 +820,7 @@
 
 ## javascript 
 
+- [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A JavaScript library for creating node-based graphs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1040,6 +1041,9 @@
 
 ## others 
 
+- [maroba/findiff](https://github.com/maroba/findiff) - Python package for numerical derivatives and partial differential equations in any number of dimensions.
+- [NIA/crash-and-squeeze](https://github.com/NIA/crash-and-squeeze) - A system for simulating plastic deformation of a 3D model for virtual reality applications
+- [YukunXia/Mass-Spring-System-for-Soft-Body-Simulation](https://github.com/YukunXia/Mass-Spring-System-for-Soft-Body-Simulation) - 
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Issue tracker for the PlayCanvas Editor
 - [playcanvas/playcanvas-observer](https://github.com/playcanvas/playcanvas-observer) - Contains the Observer class and related functionality used across the PlayCanvas Editor, pcui etc.
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
@@ -1491,6 +1495,7 @@
 
 ## reactjs 
 
+- [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A JavaScript library for creating node-based graphs
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [flexn-io/renative](https://github.com/flexn-io/renative) - 🚀🚀🚀 Unified Development Platform for iOS, tvOS, Android, Android TV, Android Wear, Web, Tizen TV, Tizen Watch, Tizen Mobile, LG webOS, macOS/OSX, Windows, KaiOS, FirefoxOS Firefox TV platforms
@@ -1656,6 +1661,7 @@
 
 ## unity 
 
+- [chrismarch/SoftBodySimulation](https://github.com/chrismarch/SoftBodySimulation) - Squish! A quick exploration of mesh deformation in response to collision
 - [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI Application to work with engine assets, asset bundles, and serialized files
 - [mlavik1/UnityVolumeRendering](https://github.com/mlavik1/UnityVolumeRendering) - Volume rendering, implemented in Unity3D.  Want to support the project? Donate a small sum to Save The Children(https://www.savethechildren.net/) or another charity, and send me a message, and I will 
 
