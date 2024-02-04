@@ -1041,6 +1041,7 @@
 
 ## others 
 
+- [Wulonghua/PhyBS](https://github.com/Wulonghua/PhyBS) - PhD independent study: implementing basic and important soft body deformation papers
 - [maroba/findiff](https://github.com/maroba/findiff) - Python package for numerical derivatives and partial differential equations in any number of dimensions.
 - [NIA/crash-and-squeeze](https://github.com/NIA/crash-and-squeeze) - A system for simulating plastic deformation of a 3D model for virtual reality applications
 - [YukunXia/Mass-Spring-System-for-Soft-Body-Simulation](https://github.com/YukunXia/Mass-Spring-System-for-Soft-Body-Simulation) - 
@@ -1068,7 +1069,7 @@
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [roboflow/multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
