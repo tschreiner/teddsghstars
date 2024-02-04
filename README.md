@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [Wulonghua/PhyBS](https://github.com/Wulonghua/PhyBS) - PhD independent study: implementing basic and important soft body deformation papers
 - [MeshFEM/MeshFEM](https://github.com/MeshFEM/MeshFEM) - Finite Element Codebase for Triangle/Tetrahedral Meshes
 - [TadasBaltrusaitis/CLM-framework](https://github.com/TadasBaltrusaitis/CLM-framework) - CLM-framework (a.k.a Cambridge Face Tracker) is a framework for various Constrained Local Model based face tracking and landmark detection algorithms and their extensions/applications. Includes CLM-Z 
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -444,7 +445,7 @@
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [roboflow/multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
 - [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) - A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
