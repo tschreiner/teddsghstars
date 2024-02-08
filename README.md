@@ -427,6 +427,7 @@
 
 ## Python 
 
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [christianpeco/I-STL2MOOSE](https://github.com/christianpeco/I-STL2MOOSE) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
 - [ElsevierSoftwareX/SOFTX-D-22-00187](https://github.com/ElsevierSoftwareX/SOFTX-D-22-00187) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
 - [maroba/findiff](https://github.com/maroba/findiff) - Python package for numerical derivatives and partial differential equations in any number of dimensions.
