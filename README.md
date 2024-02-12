@@ -93,6 +93,7 @@
 
 ## C++ 
 
+- [jslee02/VegaFEM-v3.0](https://github.com/jslee02/VegaFEM-v3.0) - Unofficial mirror of Vega FEM 3.0 with CMake build system
 - [slugdev/stltostp](https://github.com/slugdev/stltostp) - Convert stl files to STEP brep files
 - [Wulonghua/PhyBS](https://github.com/Wulonghua/PhyBS) - PhD independent study: implementing basic and important soft body deformation papers
 - [MeshFEM/MeshFEM](https://github.com/MeshFEM/MeshFEM) - Finite Element Codebase for Triangle/Tetrahedral Meshes
@@ -283,6 +284,7 @@
 
 ## MATLAB 
 
+- [lwillemet/Finger-skin-model](https://github.com/lwillemet/Finger-skin-model) - 2D parsimonious finite-difference model including frictional effects
 - [TadasBaltrusaitis/OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.
 - [IyerOnFyer/Facial-Beauty-Prediction](https://github.com/IyerOnFyer/Facial-Beauty-Prediction) - 
 - [AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-](https://github.com/AmirHoseinSafari/Make-STL-of-3D-array-Optimal-for-3d-printing-) - make_STL_of_Array Convert a voxelized object contained within a 3D logical array into an STL surface mesh, It's optimal for 3D printing because the number of faces in the final STL is as low as possib
@@ -427,6 +429,7 @@
 
 ## Python 
 
+- [Poker-Pan/Finite-difference-method](https://github.com/Poker-Pan/Finite-difference-method) - For Lapace equation - Finite difference methods: 1D, 2D, 3D. Dirichlet boundary, Neumann boundary, Periodic boundary, and their Mixed boundary.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [christianpeco/I-STL2MOOSE](https://github.com/christianpeco/I-STL2MOOSE) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
 - [ElsevierSoftwareX/SOFTX-D-22-00187](https://github.com/ElsevierSoftwareX/SOFTX-D-22-00187) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
