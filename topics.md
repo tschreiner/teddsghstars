@@ -177,6 +177,7 @@
 
 ## 3d 
 
+- [Poker-Pan/Finite-difference-method](https://github.com/Poker-Pan/Finite-difference-method) - For Lapace equation - Finite difference methods: 1D, 2D, 3D. Dirichlet boundary, Neumann boundary, Periodic boundary, and their Mixed boundary.
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data](https://github.com/3d-morphable-models/curated-list-of-awesome-3D-Morphable-Model-software-and-data) - The idea of this list is to collect shared data and algorithms around 3D Morphable Models. You are invited to contribute to this list by adding a pull request. The original list arised from the Dagstu
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
@@ -1058,6 +1059,8 @@
 
 ## others 
 
+- [lwillemet/Finger-skin-model](https://github.com/lwillemet/Finger-skin-model) - 2D parsimonious finite-difference model including frictional effects
+- [jslee02/VegaFEM-v3.0](https://github.com/jslee02/VegaFEM-v3.0) - Unofficial mirror of Vega FEM 3.0 with CMake build system
 - [slugdev/stltostp](https://github.com/slugdev/stltostp) - Convert stl files to STEP brep files
 - [christianpeco/I-STL2MOOSE](https://github.com/christianpeco/I-STL2MOOSE) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
 - [ElsevierSoftwareX/SOFTX-D-22-00187](https://github.com/ElsevierSoftwareX/SOFTX-D-22-00187) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
