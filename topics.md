@@ -1059,6 +1059,8 @@
 
 ## others 
 
+- [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
+- [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
 - [lwillemet/Finger-skin-model](https://github.com/lwillemet/Finger-skin-model) - 2D parsimonious finite-difference model including frictional effects
 - [jslee02/VegaFEM-v3.0](https://github.com/jslee02/VegaFEM-v3.0) - Unofficial mirror of Vega FEM 3.0 with CMake build system
 - [slugdev/stltostp](https://github.com/slugdev/stltostp) - Convert stl files to STEP brep files
