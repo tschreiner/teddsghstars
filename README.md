@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -93,6 +94,7 @@
 
 ## C++ 
 
+- [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
 - [jslee02/VegaFEM-v3.0](https://github.com/jslee02/VegaFEM-v3.0) - Unofficial mirror of Vega FEM 3.0 with CMake build system
 - [slugdev/stltostp](https://github.com/slugdev/stltostp) - Convert stl files to STEP brep files
 - [Wulonghua/PhyBS](https://github.com/Wulonghua/PhyBS) - PhD independent study: implementing basic and important soft body deformation papers
@@ -110,6 +112,10 @@
 - [ustcfdm/mango_matlab](https://github.com/ustcfdm/mango_matlab) - My common matlab function
 - [microsoft/Windows-iotcore-samples](https://github.com/microsoft/Windows-iotcore-samples) - Official code samples repository for Windows 10 Internet of Things (IoT)
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
+
+## CMake 
+
+- [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
 
 ## CSS 
 
@@ -698,7 +704,7 @@
 ## TypeScript 
 
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, 
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, Op
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
