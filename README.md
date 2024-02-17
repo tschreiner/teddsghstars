@@ -94,6 +94,8 @@
 
 ## C++ 
 
+- [su2code/SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
+- [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
 - [jslee02/VegaFEM-v3.0](https://github.com/jslee02/VegaFEM-v3.0) - Unofficial mirror of Vega FEM 3.0 with CMake build system
 - [slugdev/stltostp](https://github.com/slugdev/stltostp) - Convert stl files to STEP brep files
