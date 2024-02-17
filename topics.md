@@ -1058,6 +1058,7 @@
 
 ## others 
 
+- [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
 - [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
 - [lwillemet/Finger-skin-model](https://github.com/lwillemet/Finger-skin-model) - 2D parsimonious finite-difference model including frictional effects
@@ -1397,6 +1398,7 @@
 
 ## python 
 
+- [su2code/SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 PyAudio | PortAudio fork with WASAPI loopback support 🔊 Record audio from speakers on Windows
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
