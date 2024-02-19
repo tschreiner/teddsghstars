@@ -191,6 +191,7 @@
 
 ## ai 
 
+- [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plug
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
@@ -487,6 +488,7 @@
 
 ## deep-learning 
 
+- [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [RasmusRPaulsen/Deep-MVLM](https://github.com/RasmusRPaulsen/Deep-MVLM) - A tool for precisely placing 3D landmarks on 3D facial scans based on the paper "Multi-view Consensus CNN for 3D Facial Landmark Placement"
 - [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
 - [charlesq34/pointnet2](https://github.com/charlesq34/pointnet2) - PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space
@@ -932,6 +934,7 @@
 
 ## machine-learning 
 
+- [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [facebookresearch/llama-recipes](https://github.com/facebookresearch/llama-recipes) - Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supp
 - [lucasxlu/TransFBP](https://github.com/lucasxlu/TransFBP) - Official Code for Paper &lt;Transferring Rich Deep Features for Facial Beauty Prediction&gt; (arXiv1803.07253)
