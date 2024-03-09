@@ -1295,7 +1295,7 @@
 - [mtniehaus/AutopilotBranding](https://github.com/mtniehaus/AutopilotBranding) - 
 - [OfficeDev/microsoft-teams-tunnelrelay](https://github.com/OfficeDev/microsoft-teams-tunnelrelay) - Tunnel relay allows you to expose local services to the outside world over HTTPS
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
-- [mattieserver/netbox-topology-views](https://github.com/mattieserver/netbox-topology-views) - A netbox plugin that draws topology views
+- [netbox-community/netbox-topology-views](https://github.com/netbox-community/netbox-topology-views) - A netbox plugin that draws topology views
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
 - [genieacs/genieacs](https://github.com/genieacs/genieacs) - A fast and lightweight TR-069 Auto Configuration Server (ACS)
