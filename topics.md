@@ -713,6 +713,7 @@
 
 ## graphql 
 
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 
@@ -1108,7 +1109,6 @@
 - [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
 - [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing, have a try if you are tired of graphql
 - [vyorkin-personal/synchronisable](https://github.com/vyorkin-personal/synchronisable) - Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
 - [jsh9/pydoclint](https://github.com/jsh9/pydoclint) - A Python docstring linter that checks arguments, returns, yields, and raises sections
