@@ -539,6 +539,7 @@
 
 ## docker 
 
+- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.14.1(latest) and v9.12.5(lts)
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -1079,6 +1080,7 @@
 
 ## others 
 
+- [guywiththecrack/jira-crack](https://github.com/guywiththecrack/jira-crack) - jira-crack
 - [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
 - [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
