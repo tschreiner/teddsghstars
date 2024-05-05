@@ -1086,6 +1086,7 @@
 
 ## others 
 
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [guywiththecrack/jira-crack](https://github.com/guywiththecrack/jira-crack) - jira-crack
 - [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
