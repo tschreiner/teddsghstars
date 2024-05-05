@@ -442,6 +442,7 @@
 
 ## Python 
 
+- [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [Poker-Pan/Finite-difference-method](https://github.com/Poker-Pan/Finite-difference-method) - For Lapace equation - Finite difference methods: 1D, 2D, 3D. Dirichlet boundary, Neumann boundary, Periodic boundary, and their Mixed boundary.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [christianpeco/I-STL2MOOSE](https://github.com/christianpeco/I-STL2MOOSE) - I-STL2MOOSE software is a procedural script that transforms a group of STL files into a combined, conforming three-dimensional mesh file that can be read by FEM implementation package MOOSE.
