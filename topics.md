@@ -1109,6 +1109,7 @@
 
 ## others 
 
+- [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [guywiththecrack/jira-crack](https://github.com/guywiththecrack/jira-crack) - jira-crack
 - [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
