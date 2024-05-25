@@ -443,6 +443,7 @@
 
 ## Python 
 
+- [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functiona
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
 - [Poker-Pan/Finite-difference-method](https://github.com/Poker-Pan/Finite-difference-method) - For Lapace equation - Finite difference methods: 1D, 2D, 3D. Dirichlet boundary, Neumann boundary, Periodic boundary, and their Mixed boundary.
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
