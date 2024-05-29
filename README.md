@@ -225,7 +225,7 @@
 
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [bwp91/homebridge-govee](https://github.com/bwp91/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Fast and lightweight JavaScript game engine built on WebGL and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [playcanvas/playcanvas-observer](https://github.com/playcanvas/playcanvas-observer) - Contains the Observer class and related functionality used across the PlayCanvas Editor, pcui etc.
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
