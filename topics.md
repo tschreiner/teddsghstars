@@ -642,15 +642,15 @@
 
 ## game-development 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## game-engine 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## gamedev 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## games 
 
@@ -859,7 +859,7 @@
 ## javascript 
 
 - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1078,7 +1078,7 @@
 
 ## nodejs 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1732,7 +1732,7 @@
 
 ## typescript 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative
@@ -1764,7 +1764,7 @@
 
 ## virtual-reality 
 
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
 
 ## vue 
 
