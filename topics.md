@@ -729,7 +729,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A declarative, schema-based solution for fetching and crafting data, from simple to complicated.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - define your pydantic schema first, attach some resolver and then all done!
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 Open-source backend development platform. Build production-ready services without wasting time on repetitive coding.
 
