@@ -1114,6 +1114,7 @@
 
 ## others 
 
+- [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
 - [sparxsys/ScriptRunner-Scripts](https://github.com/sparxsys/ScriptRunner-Scripts) - Groovy scripts to make your life easier when working on Atlassian tools
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
