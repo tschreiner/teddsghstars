@@ -860,6 +860,7 @@
 
 - [CodeHole7/threejs-3d-room-designer](https://github.com/CodeHole7/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
 - [playcanvas/engine](https://github.com/playcanvas/engine) - JavaScript game engine built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/observer](https://github.com/playcanvas/observer) - JavaScript implementation of the Observer pattern
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -1132,7 +1133,6 @@
 - [NIA/crash-and-squeeze](https://github.com/NIA/crash-and-squeeze) - A system for simulating plastic deformation of a 3D model for virtual reality applications
 - [YukunXia/Mass-Spring-System-for-Soft-Body-Simulation](https://github.com/YukunXia/Mass-Spring-System-for-Soft-Body-Simulation) - 
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Issue tracker for the PlayCanvas Editor
-- [playcanvas/playcanvas-observer](https://github.com/playcanvas/playcanvas-observer) - Contains the Observer class and related functionality used across the PlayCanvas Editor, pcui etc.
 - [davabase/whisper_real_time](https://github.com/davabase/whisper_real_time) - Real time transcription with OpenAI Whisper.
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [YuchenZhang-Academic/3D-Facial-Landmark](https://github.com/YuchenZhang-Academic/3D-Facial-Landmark) - Code of paper "An Automated Method of 3D Facial Soft Tissue Landmark Prediction based on Object Detection and Deep Learning"
