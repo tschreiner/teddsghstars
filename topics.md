@@ -707,7 +707,6 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## good-first-issue 
@@ -814,7 +813,6 @@
 ## html 
 
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## html5 
@@ -875,7 +873,6 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 - [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - Invoices, Expenses and Tasks built with Laravel, Flutter and React
 
@@ -1726,6 +1723,7 @@
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
 - [GoogleCloudPlatform/microservices-demo](https://github.com/GoogleCloudPlatform/microservices-demo) - Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible, Terraform, OpenTofu, Bash, Pulumi
 
 ## testing 
 
