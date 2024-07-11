@@ -1463,6 +1463,7 @@
 
 ## python 
 
+- [fapfaff/appwashpy](https://github.com/fapfaff/appwashpy) - 
 - [su2code/SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 PyAudio | PortAudio fork with WASAPI loopback support 🔊 Record audio from speakers on Windows
