@@ -734,7 +734,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - define your pydantic schema first, attach some resolvers and then all done!
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - progressively extend and resolve your schema
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 
