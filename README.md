@@ -689,7 +689,7 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [SansGuidon/bookmarks](https://github.com/SansGuidon/bookmarks) - :warning: Mirrored from https://gitea.zoemp.be/sansguidon/bookmarks ! :bookmark: +5K awesome resources for geeks and software crafters :beer:
-- [camunda/docker-camunda-bpm-platform](https://github.com/camunda/docker-camunda-bpm-platform) - Docker images for the camunda BPM platform
+- [camunda/docker-camunda-bpm-platform](https://github.com/camunda/docker-camunda-bpm-platform) - Camunda 7 - Docker images for the Camunda BPM platform
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
@@ -719,7 +719,7 @@
 
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, Ch
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
