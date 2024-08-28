@@ -447,6 +447,7 @@
 
 ## Python 
 
+- [Annex-Engineering/TradRack](https://github.com/Annex-Engineering/TradRack) - A MMU system developed by ANNEX Engineering
 - [fapfaff/appwashpy](https://github.com/fapfaff/appwashpy) - 
 - [danieldotnl/ha-multiscrape](https://github.com/danieldotnl/ha-multiscrape) - Home Assistant custom component for scraping (html, xml or json) multiple values (from a single HTTP request) with a separate sensor/attribute for each value. Support for (login) form-submit functiona
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
