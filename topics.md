@@ -1182,7 +1182,7 @@
 - [elifiner/pydump](https://github.com/elifiner/pydump) - Create coredump like file from Python to post-mortem debug later
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [roboflow/multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - Effective prompting for Large Multimodal Models like GPT-4 Vision, LLaVA or CogVLM. 🔥
+- [roboflow/multimodal-maestro](https://github.com/roboflow/multimodal-maestro) - streamline the fine-tuning process for multimodal models: PaliGemma, Florence-2, Phi-3.5 Vision
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [dotnet/eShop](https://github.com/dotnet/eShop) - A reference .NET application implementing an eCommerce site
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
