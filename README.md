@@ -131,7 +131,7 @@
 
 ## Dockerfile 
 
-- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.2(latest) and v9.12.12(lts)
+- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.2(latest) v10.0.1(latest) and v9.12.13(lts)
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 
 ## Emacs Lisp 
@@ -477,7 +477,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - progressively extend and resolve your schema
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - retrive your data from root to leaves, and tweak the data from leaves to root.
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
@@ -720,7 +720,7 @@
 ## TypeScript 
 
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, Cha
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
