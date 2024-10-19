@@ -753,7 +753,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - retrive your data from root to leaves, and tweak the data from leaves to root.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - It just provide a pair of pre & post methods around pydantic fields, the rest is up to your imagination : )
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 
