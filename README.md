@@ -643,7 +643,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [netbox-community/netbox-topology-views](https://github.com/netbox-community/netbox-topology-views) - A netbox plugin that draws topology views
 - [napalm-automation-community/napalm-vyos](https://github.com/napalm-automation-community/napalm-vyos) - NAPALM Driver for the VyOS
-- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
+- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Next-Gen Topology Visualization Plugin for NetBox Powered by topoSphere SDK
 - [PacktPublishing/Automate-it](https://github.com/PacktPublishing/Automate-it) - Code repository for Automate it!, published by Packt
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 - [pythad/selenium_extensions](https://github.com/pythad/selenium_extensions) - Tools that will make writing tests, bots and scrapers using Selenium much easier
