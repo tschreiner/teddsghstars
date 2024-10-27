@@ -1408,7 +1408,7 @@
 - [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 - [SalutAToi/AD-Tier-Administration](https://github.com/SalutAToi/AD-Tier-Administration) - Powershell scripts to implement a Tier administration model in Active Directory
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - A topology visualization plugin for Netbox powered by NextUI Toolkit
+- [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Next-Gen Topology Visualization Plugin for NetBox Powered by topoSphere SDK
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [dsccommunity/dsccommunity.org](https://github.com/dsccommunity/dsccommunity.org) - DSC community organisation's website
 - [PacktPublishing/Automate-it](https://github.com/PacktPublishing/Automate-it) - Code repository for Automate it!, published by Packt
