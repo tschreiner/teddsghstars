@@ -1223,7 +1223,7 @@
 - [networkingdvi/HPN-Scripting](https://github.com/networkingdvi/HPN-Scripting) - OpenSource collection of scripts that can be used with HP Networking devices
 - [sundios/Yandex-Ranking-Factors](https://github.com/sundios/Yandex-Ranking-Factors) - Complete Internal List of Yandex Ranking Factors. There are over 1900 individual ranking factors listed, starting at “PageRank
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
-- [ScaleUp-Technologies/ansible-i-doit](https://github.com/ScaleUp-Technologies/ansible-i-doit) - Ansible i-doit Collection
+- [scaleup-technologies/ansible-i-doit](https://github.com/scaleup-technologies/ansible-i-doit) - Ansible i-doit Collection
 - [design-patterns-for-humans/en-US-python](https://github.com/design-patterns-for-humans/en-US-python) - 
 - [jonathancrozier/jc-samples-request-response](https://github.com/jonathancrozier/jc-samples-request-response) - An implementation of the Request-Response pattern using C# with JSON-RPC and WebSockets.
 - [c0fec0de/anytree](https://github.com/c0fec0de/anytree) - Python tree data library
