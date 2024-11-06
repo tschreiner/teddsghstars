@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [zellneralex/klipper_config](https://github.com/zellneralex/klipper_config) - This is the config of my Voron 2.4 350mm3 Serial:V2.660
 - [frap129/qidi_auto_z_offset](https://github.com/frap129/qidi_auto_z_offset) - Auto Z-Offset Calibration for the QIDI Q1 Pro
 - [frap129/OpenQ1](https://github.com/frap129/OpenQ1) - Custom Firmware for the QIDI Q1 Pro
 - [Annex-Engineering/TradRack](https://github.com/Annex-Engineering/TradRack) - A MMU system developed by ANNEX Engineering
