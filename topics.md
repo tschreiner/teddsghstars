@@ -754,7 +754,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - adding two sets of hooks for getting and processing data in pydantic.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - adding two sets of hooks for getting and processing data in pydantic and dataclass
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 
