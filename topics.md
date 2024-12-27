@@ -161,6 +161,7 @@
 - [scala](#scala)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [software](#software)
@@ -1697,6 +1698,11 @@
 - [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 - [netwrix/pingcastle](https://github.com/netwrix/pingcastle) - PingCastle - Get Active Directory Security at 80% in 20% of the time
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
+
+## security-tools 
+
+- [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) - Statically-linked ssh server with reverse shell functionality for CTFs and such
+- [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
 
 ## self-hosted 
 
