@@ -382,6 +382,7 @@
 
 ## PHP 
 
+- [marcharding/php-gptaint](https://github.com/marcharding/php-gptaint) - php-gptaint
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
 - [Smoren/schemator-php](https://github.com/Smoren/schemator-php) - Schematic data mapper and nested access tools
 - [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
