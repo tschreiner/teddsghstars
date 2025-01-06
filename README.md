@@ -188,7 +188,7 @@
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [i-doit/knowledge-base](https://github.com/i-doit/knowledge-base) - i-doit docs
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
 - [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
