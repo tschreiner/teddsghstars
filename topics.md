@@ -1167,7 +1167,6 @@
 - [sparxsys/ScriptRunner-Scripts](https://github.com/sparxsys/ScriptRunner-Scripts) - Groovy scripts to make your life easier when working on Atlassian tools
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [rospogrigio/localtuya](https://github.com/rospogrigio/localtuya) - local handling for Tuya devices
-- [guywiththecrack/jira-crack](https://github.com/guywiththecrack/jira-crack) - jira-crack
 - [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [agirault/IVSPlan](https://github.com/agirault/IVSPlan) - Intelligent Virtual Surgical Planning application software
 - [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
