@@ -131,7 +131,7 @@
 
 ## Dockerfile 
 
-- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.1(latest) and v9.12.16(lts)
+- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.2(latest) and v9.12.17(lts)
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [MicrosoftDocs/azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.
 
@@ -230,7 +230,6 @@
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [homebridge-plugins/homebridge-govee](https://github.com/homebridge-plugins/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/observer](https://github.com/playcanvas/observer) - JavaScript implementation of the Observer pattern
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [aliyun/data-mapping-component](https://github.com/aliyun/data-mapping-component) - A React Component which focus on Data-Mapping & Table-Field-Mapping.(基于React的数据/表字段映射组件)
@@ -722,6 +721,7 @@
 
 ## TypeScript 
 
+- [playcanvas/observer](https://github.com/playcanvas/observer) - JavaScript implementation of the Observer pattern
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code In
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
