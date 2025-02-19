@@ -94,7 +94,7 @@
 
 ## C++ 
 
-- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [su2code/SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 - [kovadam19/MicroCrop](https://github.com/kovadam19/MicroCrop) - Advanced Anisotropic Mass-Spring System
 - [cbiasco/slime-apocalypse](https://github.com/cbiasco/slime-apocalypse) - Soft-body mesh deformation project for a technical animation class at UMN
@@ -477,7 +477,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - provide an elegant way for data composition
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - Providing an elegant way for data composition
 - [bergercookie/syncall](https://github.com/bergercookie/syncall) - Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
