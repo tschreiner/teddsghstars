@@ -371,7 +371,6 @@
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 - [jsonresume/vscode-jsonresume](https://github.com/jsonresume/vscode-jsonresume) - JSONResume creation, validation, and code completion in VSCode
 - [Flangvik/SharpCollection](https://github.com/Flangvik/SharpCollection) - Nightly builds of common C# offensive tools, fresh from their respective master branches built and released in a CDI fashion using Azure DevOps release pipelines.
-- [ansiblejunky/ansible-project-template](https://github.com/ansiblejunky/ansible-project-template) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
 - [S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet) - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation) - Curated Awesome list about Network Automation
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -701,6 +700,7 @@
 - [angela-d/brain-dump](https://github.com/angela-d/brain-dump) - Cheat sheets, customizations and configurations I use across multiple systems.
 - [enginyoyen/ansible-best-practises](https://github.com/enginyoyen/ansible-best-practises) - A project structure that outlines some best practises of how to use ansible
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
+- [ansiblejunky/ansible-project-template](https://github.com/ansiblejunky/ansible-project-template) - Example repository used for demo purposes - contains Ansible playbooks and uses a requirements.yml to pull Ansible Roles
 
 ## Smarty 
 
