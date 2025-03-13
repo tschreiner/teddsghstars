@@ -363,6 +363,7 @@
 - [viduraakalanka/Network-Device-Config](https://github.com/viduraakalanka/Network-Device-Config) - This is is repository containing configurations carried out in Network devices (Switches, Routers, Servers etc.)
 - [aaz-imran/mar](https://github.com/aaz-imran/mar) - 
 - [vinodhkumarsri/F9](https://github.com/vinodhkumarsri/F9) - Metal artifact reduction on MRI and CT scan
+- [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
 - [vinodvaddi/groovy-snippet](https://github.com/vinodvaddi/groovy-snippet) - 
 - [haballa/PushToRemoteRepository](https://github.com/haballa/PushToRemoteRepository) - Easy updating of a repository (Power Automate Desktop)
 - [camunda-community-hub/awesome-Camunda-and-Robotframework-projects](https://github.com/camunda-community-hub/awesome-Camunda-and-Robotframework-projects) - A collection of projects around the combination of Robotframework and Camunda
@@ -632,7 +633,6 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [m-khvoinitsky/workflow-templater](https://github.com/m-khvoinitsky/workflow-templater) - Template engine for (currently) Jira and Email. Uses yaml and jinja2. It helps you create multiple (possibly cross-liked) jira issues and emails from a template.
 - [kartral21/pythonpoc-master2](https://github.com/kartral21/pythonpoc-master2) - Python app built on Flask framework. The flask endpoints are used to parse email on POP server, perform LDAP & PostgreSQL Database operations. Built and run in a containerized development environment 
-- [sthierolf/network-automation-scripts](https://github.com/sthierolf/network-automation-scripts) - Examples for "Custom Links" in Netbox to other applications by API calls
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 - [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
