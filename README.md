@@ -558,7 +558,7 @@
 - [nornir-automation/nornir](https://github.com/nornir-automation/nornir) - Pluggable multi-threaded framework with inventory management to help operate collections of devices
 - [networktocode/ntc-soteria](https://github.com/networktocode/ntc-soteria) - ACL/Flow Auditing Tool based on Batfish
 - [nautobot/nautobot](https://github.com/nautobot/nautobot) - Network Source of Truth & Network Automation Platform
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
 - [tbotnz/netpalm](https://github.com/tbotnz/netpalm) - ReST based network device broker
 - [okta/samples-python-flask](https://github.com/okta/samples-python-flask) - samples-python-flask
 - [the-unbelievable-machine/ansible_collection_hpe](https://github.com/the-unbelievable-machine/ansible_collection_hpe) - Collection of plugins / roles / playbooks for management of HPE iLO.
