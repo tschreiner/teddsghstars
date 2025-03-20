@@ -1274,7 +1274,7 @@
 - [microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql) - Visual Studio Code SQL Server extension.
 - [netmanchris/Jinja2-Network-Configurations-Scripts](https://github.com/netmanchris/Jinja2-Network-Configurations-Scripts) - Network Configuration Scripts
 - [the-unbelievable-machine/ansible_collection_hpe](https://github.com/the-unbelievable-machine/ansible_collection_hpe) - Collection of plugins / roles / playbooks for management of HPE iLO.
-- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
+- [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [tschreiner/teddsghstars](https://github.com/tschreiner/teddsghstars) - My github stars
 - [tschreiner/idoit_api](https://github.com/tschreiner/idoit_api) - i-doit API Client for Python. Ported from the original idoit- PHP API client source code.
 - [nornir-automation/nornir_napalm](https://github.com/nornir-automation/nornir_napalm) - NAPALM's plugins for nornir
