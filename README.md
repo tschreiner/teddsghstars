@@ -133,7 +133,7 @@
 
 - [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.2(latest) and v9.12.18(lts)
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
-- [MicrosoftDocs/azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) - Repository used to store Azure PowerShell cmdlet content published on docs.ms.com reference site.
+- [MicrosoftDocs/azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) - Repository for Azure PowerShell cmdlet documentation published on learn.microsoft.com
 
 ## Emacs Lisp 
 
@@ -219,7 +219,7 @@
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
 - [openwms/org.openwms](https://github.com/openwms/org.openwms) - Open Warehouse Management System
