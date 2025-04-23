@@ -175,6 +175,7 @@
 - [svelte](#svelte)
 - [symfony](#symfony)
 - [tailwindcss](#tailwindcss)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [terraform](#terraform)
@@ -1774,6 +1775,10 @@
 ## tailwindcss 
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
+
+## telegram-bot 
+
+- [flathunters/flathunter](https://github.com/flathunters/flathunter) - A bot to help people with their rental real-estate search. 🏠🤖
 
 ## tensorflow 
 
