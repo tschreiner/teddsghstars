@@ -219,7 +219,7 @@
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
 - [openwms/org.openwms](https://github.com/openwms/org.openwms) - Open Warehouse Management System
@@ -504,7 +504,7 @@
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [scaleup-technologies/ansible-i-doit](https://github.com/scaleup-technologies/ansible-i-doit) - Ansible i-doit Collection
 - [OasisLMF/OpenDataTransform](https://github.com/OasisLMF/OpenDataTransform) - An open-source Python-based catastrophe data transformation - converts exposure data between OED and other data formats.
-- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD Example and Techniques
+- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques
 - [anikolaienko/py-automapper](https://github.com/anikolaienko/py-automapper) - Python object auto mapper
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
