@@ -396,7 +396,7 @@
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
 - [deprecated-packages/statie](https://github.com/deprecated-packages/statie) - [DEPRECATED] [READ-ONLY] Use Symfony plugin instead →
-- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
 - [oroinc/platform](https://github.com/oroinc/platform) - Main OroPlatform package with core functionality.
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
