@@ -179,7 +179,6 @@
 - [HariSekhon/Templates](https://github.com/HariSekhon/Templates) - 100+ DevOps Code & Config templates for Kubernetes, AWS, GCP, Terraform, Docker, Packer, Jenkins, CircleCI, GitHub Actions, Vagrant, Puppet, Lambda, Python, Perl, Bash, Ruby, Golang, Java, Scala, Groo
 - [metalstormbass/CloudGuard_WAAP_K8](https://github.com/metalstormbass/CloudGuard_WAAP_K8) - Demonstration of Check Point Shift Left and WAAP Products. Deployed using DevOps methodology
 - [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
-- [Azure/Enterprise-Scale-for-AVS](https://github.com/Azure/Enterprise-Scale-for-AVS) - Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment. This solution provides an architectural approach and reference i
 - [Azure/caf-terraform-landingzones-accelerator](https://github.com/Azure/caf-terraform-landingzones-accelerator) - Starter project for Applications (level 4) Cloud Adoption Framework for Azure landing zones on Terraform
 
 ## HTML 
@@ -420,6 +419,7 @@
 - [macaddict89/SnipeITPS-Scripts](https://github.com/macaddict89/SnipeITPS-Scripts) - Inventory Scripts for new computers/updating computers
 - [OccupiedToast/Auto-Checkout-Script-for-SnipeitPS](https://github.com/OccupiedToast/Auto-Checkout-Script-for-SnipeitPS) - A simple semi-automatic checkout script for the SnipeITPS powershell module.
 - [Shiboneko/Snipeitps.label](https://github.com/Shiboneko/Snipeitps.label) - Contains an example module, to print snipeit labels on a zebra network printer
+- [Azure/Enterprise-Scale-for-AVS](https://github.com/Azure/Enterprise-Scale-for-AVS) - Enterprise-scale for AVS represents the strategic design path and target technical state for an Azure VMware Solution (AVS) deployment. This solution provides an architectural approach and reference i
 - [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
 - [SnoozingPinata/SamsADToolkit](https://github.com/SnoozingPinata/SamsADToolkit) - Various tools for managing Active Directory
 - [TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell](https://github.com/TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell) - All associated scripts and files for the Managing and Automating Active Directory with PowerShell course
