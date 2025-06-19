@@ -1229,7 +1229,6 @@
 - [ScriptFUSION/Mapper](https://github.com/ScriptFUSION/Mapper) - :earth_africa: Transforms arrays using an object composition DSL.
 - [acalio/trending-github](https://github.com/acalio/trending-github) - 
 - [WSShawn/trending-github](https://github.com/WSShawn/trending-github) - 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - business model friendly data orchestration tool
 - [vyorkin-personal/synchronisable](https://github.com/vyorkin-personal/synchronisable) - Provides base fuctionality (models, DSL) for AR synchronization with external resources (apis, services etc)
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [thephpleague/fractal](https://github.com/thephpleague/fractal) - Output complex, flexible, AJAX/RESTful data structures.
@@ -1547,6 +1546,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - business model friendly data orchestration tool
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
