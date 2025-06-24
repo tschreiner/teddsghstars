@@ -1408,7 +1408,7 @@
 - [tayfun57/tayfun57.github.io](https://github.com/tayfun57/tayfun57.github.io) - Github Pages für meine Portfolio Webseite
 - [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
 - [Aksoylu/GoldenFace](https://github.com/Aksoylu/GoldenFace) - An Image Processing Library About Calculating Face Golden Ratio, Facial Cosine Similarity and More
-- [SnoozingPinata/SamsADToolkit](https://github.com/SnoozingPinata/SamsADToolkit) - Various tools for managing Active Directory
+- [SamuelMelton711/SamsADToolkit](https://github.com/SamuelMelton711/SamsADToolkit) - Various tools for managing Active Directory
 - [TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell](https://github.com/TechSnips/ManagingAndAutomatingActiveDirectoryWithPowerShell) - All associated scripts and files for the Managing and Automating Active Directory with PowerShell course
 - [Escaflowne0x0/User-Creation-Automation-with-Powershell](https://github.com/Escaflowne0x0/User-Creation-Automation-with-Powershell) - This is a Script that I made to automate the creation of users in Activer Directory giving you the chance to select several things, synchronize them with Office 365 / Azure, assign them a license if n
 - [mtniehaus/AutopilotBranding](https://github.com/mtniehaus/AutopilotBranding) - 
