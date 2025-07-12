@@ -1548,7 +1548,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - business model friendly data orchestration tool
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a business model friendly data orchestration tool
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
