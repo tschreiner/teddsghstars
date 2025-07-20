@@ -33,6 +33,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cms](#cms)
 - [code-quality](#code-quality)
 - [coding](#coding)
 - [computer-science](#computer-science)
@@ -449,6 +450,15 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+
+## cms 
+
+- [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
+- [pimcore/pimcore](https://github.com/pimcore/pimcore) - Core Framework for the Open Core Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)
+- [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
+- [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django
+- [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
 ## code-quality 
 
@@ -1444,7 +1454,6 @@
 - [pythad/selenium_extensions](https://github.com/pythad/selenium_extensions) - Tools that will make writing tests, bots and scrapers using Selenium much easier
 - [albinekb/open-pip-cli](https://github.com/albinekb/open-pip-cli) - 📺 CLI for https://github.com/albinekb/open-pip - Open a movie url or path in macOS picture-in-picture
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
-- [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
 - [eudicots/Cactus](https://github.com/eudicots/Cactus) - Static site generator for designers. Uses Python and Django templates.
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [JonDoNym/peinjector](https://github.com/JonDoNym/peinjector) - peinjector - MITM PE file infector
