@@ -314,7 +314,6 @@
 - [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
 - [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Issue tracker for the PlayCanvas Editor
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [paulgolter/blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
 - [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of awesome DICOM resources and libraries.
@@ -664,7 +663,6 @@
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [travisbrown/cancel-culture](https://github.com/travisbrown/cancel-culture) - Tools for fighting abuse on Twitter
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments using Nix
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
@@ -717,6 +715,7 @@
 
 ## TypeScript 
 
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
 - [playcanvas/observer](https://github.com/playcanvas/observer) - TypeScript implementation of the Observer pattern
 - [yazinsai/srt-ai](https://github.com/yazinsai/srt-ai) - Translate SRT files to any language, using AI magic ✨
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search
