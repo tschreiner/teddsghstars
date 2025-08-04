@@ -704,24 +704,24 @@
 
 ## frontend 
 
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [fboender/ansible-cmdb](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
 
 ## game-development 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 
 ## game-engine 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 
 ## gamedev 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 
 ## games 
 
@@ -1164,7 +1164,7 @@
 ## nodejs 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openintegrationhub/openintegrationhub](https://github.com/openintegrationhub/openintegrationhub) - Open Integration Hub
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1867,7 +1867,7 @@
 ## typescript 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [playcanvas/observer](https://github.com/playcanvas/observer) - TypeScript implementation of the Observer pattern
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -1884,7 +1884,7 @@
 
 ## ui 
 
-- [playcanvas/editor](https://github.com/playcanvas/editor) - Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+- [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
