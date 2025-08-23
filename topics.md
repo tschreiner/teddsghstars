@@ -1305,7 +1305,7 @@
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [drkostas/yaml-config-wrapper](https://github.com/drkostas/yaml-config-wrapper) - A YAML configuration wrapper.
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
-- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor. Legacy project in maintenance mode.
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad) - Web-based SQL editor
 - [mikhail-bot/awesome-gpt3](https://github.com/mikhail-bot/awesome-gpt3) - Curating the best GPT3 tools and resources
 - [ghimiresunil/Top-AI-Tools](https://github.com/ghimiresunil/Top-AI-Tools) - Curated list of AI Tools
 - [CheckPointSW/ChangedPolicies](https://github.com/CheckPointSW/ChangedPolicies) - Check Point ChangedPolicies tool allows the user to know which policies were affected by changes that were made in the last published session.
