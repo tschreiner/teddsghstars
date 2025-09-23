@@ -215,7 +215,7 @@
 - [josemmarneca/ManagementUsersLdap](https://github.com/josemmarneca/ManagementUsersLdap) - REST API project using Spring Boot, H2, Ldap Connector to management user in ldap
 - [jobrunr/jobrunr](https://github.com/jobrunr/jobrunr) - An extremely easy way to perform background processing in Java. Backed by persistent storage. Open and free for commercial use.
 - [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything — from scripts to data, infra, AI, and business — as code, with UI and AI Copilot. Simple. Fast. Scalable.
 - [GluuFederation/scim](https://github.com/GluuFederation/scim) - SCIM server/client
 - [wms2/mywms](https://github.com/wms2/mywms) - myWMS: Warehouse Management System
 - [openwms/org.openwms](https://github.com/openwms/org.openwms) - Open Warehouse Management System
@@ -320,7 +320,7 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Kludex/awesome-pydantic](https://github.com/Kludex/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
-- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - 
+- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler extension for Visual Studio Code
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
 - [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation) - Popular algorithms explained in simple language with examples and links to their implementation in various programming languages and other required resources.
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
