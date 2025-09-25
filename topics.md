@@ -34,6 +34,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [cloud](#cloud)
 - [cms](#cms)
 - [code-quality](#code-quality)
 - [coding](#coding)
@@ -461,6 +462,12 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [aantn/smag](https://github.com/aantn/smag) - Show Me A Graph - Command Line Graphing
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
+
+## cloud 
+
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [openwms/org.openwms](https://github.com/openwms/org.openwms) - Open Warehouse Management System
 
 ## cms 
 
