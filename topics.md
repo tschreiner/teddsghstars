@@ -197,6 +197,7 @@
 - [vagrant](#vagrant)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [visualization](#visualization)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -1931,6 +1932,15 @@
 ## virtual-reality 
 
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+
+## visualization 
+
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [microsoft/SandDance](https://github.com/microsoft/SandDance) - Visually explore, understand, and present your data.
+- [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
+- [visual-layer/fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful, free tool designed to rapidly generate valuable insights from image and video datasets. It helps enhance the quality of both images and labels, while significantly reducing data
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## vue 
 
