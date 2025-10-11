@@ -821,7 +821,7 @@
 
 ## graphql 
 
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful dynamic computing container.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful composable computing container.
 - [dbohdan/automatic-api](https://github.com/dbohdan/automatic-api) - A list of software that turns your database into a REST/GraphQL API
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 
@@ -1604,7 +1604,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful dynamic computing container.
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - pydantic-resolve turns pydantic from a static data container into a powerful composable computing container.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
