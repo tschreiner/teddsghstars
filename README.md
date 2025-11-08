@@ -380,7 +380,7 @@
 - [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
 - [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
 - [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
-- [wheelybird/ldap-user-manager](https://github.com/wheelybird/ldap-user-manager) - A PHP web-based interface for LDAP user account management and self-service password change.
+- [wheelybird/luminary](https://github.com/wheelybird/luminary) - A PHP web-based interface for LDAP user account management and self-service password change.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
 - [deprecated-packages/statie](https://github.com/deprecated-packages/statie) - [DEPRECATED] [READ-ONLY] Use Symfony plugin instead →
