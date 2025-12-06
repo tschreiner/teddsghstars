@@ -164,6 +164,7 @@
 - [pytorch](#pytorch)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
+- [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
 - [reactjs](#reactjs)
@@ -1738,6 +1739,10 @@
 ## r 
 
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+
+## rag 
+
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## react 
 
