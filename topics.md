@@ -1492,7 +1492,6 @@
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
 - [SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions](https://github.com/SSWConsulting/SSWSysAdmins.GetExchangeOnlinePermissions) - 
 - [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
-- [802-1x/Compliance](https://github.com/802-1x/Compliance) - 
 - [khanson66/SnipeITAgent](https://github.com/khanson66/SnipeITAgent) - 
 - [jfriant/snipe-it-collector](https://github.com/jfriant/snipe-it-collector) - Single-script agent to create new Assets in a Snipe-IT database
 - [danjunx/O365-Scripts](https://github.com/danjunx/O365-Scripts) - Collection of scripts related to O365/AD automation
@@ -1649,7 +1648,7 @@
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python) - A curated list of awesome things related to functional programming in Python.
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A one-stop solution from designing ER diagram to generating final view data
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - Make API easy to write and easy to read.
 - [roniemartinez/dude](https://github.com/roniemartinez/dude) - dude uncomplicated data extraction: A simple framework for writing web scrapers using Python decorators
 - [HBNetwork/python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of config from code.
 - [CorentinJ/Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
