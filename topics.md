@@ -1620,7 +1620,7 @@
 ## privacy 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [a449707101729771095/Windows-10-Hardening](https://github.com/a449707101729771095/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
+- [a52924506414585696564761/Windows-10-Hardening](https://github.com/a52924506414585696564761/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
 
 ## productivity 
 
