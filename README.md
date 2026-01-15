@@ -399,7 +399,6 @@
 - [cloudbase/powershell-yaml](https://github.com/cloudbase/powershell-yaml) - PowerShell CmdLets for YAML format manipulation
 - [microsoft/PSRule-pipelines](https://github.com/microsoft/PSRule-pipelines) - Validate infrastructure as code (IaC) and DevOps repositories using Azure Pipelines.
 - [RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT](https://github.com/RussellLeVasseur/Asset-Self-Reporting-Tool-for-SnipeIT) - A script to compile an assets information and update SnipeIT inventory system.
-- [data-source/PowerShell](https://github.com/data-source/PowerShell) - Various PowerShell scripts and items using Jira as a front-end
 - [shigel/setup-win-min](https://github.com/shigel/setup-win-min) - 
 - [SSWConsulting/SSWSysAdmins.LeavingStandard](https://github.com/SSWConsulting/SSWSysAdmins.LeavingStandard) - SSW Leaving Standard with Universal Dashboard
 - [khanson66/SnipeITAgent](https://github.com/khanson66/SnipeITAgent) - 
