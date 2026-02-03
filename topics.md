@@ -1333,7 +1333,7 @@
 - [MetaVisionLab/MetaFBP](https://github.com/MetaVisionLab/MetaFBP) - MetaFBP: Learning to Learn High-Order Predictor for Personalized Facial Beauty Prediction (ACM MM 2023)
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [sculptor2022/sculptor](https://github.com/sculptor2022/sculptor) - 
-- [elifiner/pydump](https://github.com/elifiner/pydump) - Create coredump like file from Python to post-mortem debug later
+- [finereli/pydump](https://github.com/finereli/pydump) - Create coredump like file from Python to post-mortem debug later
 - [UiPath/CoreWF](https://github.com/UiPath/CoreWF) - WF runtime ported to work on .NET 6
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [roboflow/maestro](https://github.com/roboflow/maestro) - streamline the fine-tuning process for multimodal models: PaliGemma 2, Florence-2, and Qwen2.5-VL
@@ -2050,7 +2050,7 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [gerardog/gsudo](https://github.com/gerardog/gsudo) - Sudo for Windows
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
