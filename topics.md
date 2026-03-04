@@ -69,6 +69,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -721,6 +722,12 @@
 ## emacs 
 
 - [daviderestivo/comware-router-mode](https://github.com/daviderestivo/comware-router-mode) - Major mode for editing Comware configuration files
+
+## fastapi 
+
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - A tool for building domain layer modeling and use case assembly.
+- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 
 ## finance 
 
