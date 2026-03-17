@@ -52,7 +52,7 @@
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [SSWConsulting/SSWSysAdmins.SyncNPS](https://github.com/SSWConsulting/SSWSysAdmins.SyncNPS) - Sync NPS config between DCs
-- [a52924506414585696564761/Windows-10-Hardening](https://github.com/a52924506414585696564761/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
+- [a8763506128977812212307169331690/Windows-10-Hardening](https://github.com/a8763506128977812212307169331690/Windows-10-Hardening) - An admittedly frivolous (and infrequently updated) attempt to harden Windows 10.
 - [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) - Windows 11 secure group policy for standalone devices
 
 ## C 
