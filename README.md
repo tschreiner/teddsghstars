@@ -130,7 +130,6 @@
 
 ## Dockerfile 
 
-- [haxqer/jira](https://github.com/haxqer/jira) - The simplest docker file of JIRA. Support v9.17.5(latest) v10.3.2(latest) and v9.12.18(lts)
 - [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords.
 - [MicrosoftDocs/azure-docs-powershell](https://github.com/MicrosoftDocs/azure-docs-powershell) - Repository for Azure PowerShell cmdlet documentation published on learn.microsoft.com
 
