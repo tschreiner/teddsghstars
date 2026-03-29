@@ -45,7 +45,6 @@
 - [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
-- [Visual Basic .NET](#visual-basic-.net)
 - [Vue](#vue)
 
 ## Batchfile 
@@ -423,6 +422,7 @@
 - [bwya77/Master-User-Creator](https://github.com/bwya77/Master-User-Creator) - GUI Application written in PowerShell to easily and quickly create, and configure Active Directory and/or Office 365 Users in a single window. Enable MFA, apply licenses, add to groups, and much more
 - [SwiftOnSecurity/OrgKit](https://github.com/SwiftOnSecurity/OrgKit) - Provision a brand-new company with proper defaults in Windows, Offic365, and Azure
 - [AutomatedLab/AutomatedLab](https://github.com/AutomatedLab/AutomatedLab) - AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 20
+- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 - [SalutAToi/AD-Tier-Administration](https://github.com/SalutAToi/AD-Tier-Administration) - Powershell scripts to implement a Tier administration model in Active Directory
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
@@ -737,10 +737,6 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [genieacs/genieacs](https://github.com/genieacs/genieacs) - A fast and lightweight TR-069 Auto Configuration Server (ACS)
-
-## Visual Basic .NET 
-
-- [markdomansky/WebJEA](https://github.com/markdomansky/WebJEA) - WebJEA - Secure Self Service Web Forms from PowerShell Scripts
 
 ## Vue 
 
