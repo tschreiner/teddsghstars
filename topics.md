@@ -69,6 +69,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emacs](#emacs)
+- [esp32](#esp32)
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
@@ -721,6 +722,10 @@
 ## emacs 
 
 - [daviderestivo/comware-router-mode](https://github.com/daviderestivo/comware-router-mode) - Major mode for editing Comware configuration files
+
+## esp32 
+
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 
 ## fastapi 
 
