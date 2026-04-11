@@ -1305,6 +1305,7 @@
 
 ## others 
 
+- [Abdulazizzn/n8n-enterprise-unlocked](https://github.com/Abdulazizzn/n8n-enterprise-unlocked) - n8n workflow automation platform with all enterprise features unlocked - no license restrictions
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [marcharding/php-gptaint](https://github.com/marcharding/php-gptaint) - php-gptaint
 - [zellneralex/klipper_config](https://github.com/zellneralex/klipper_config) - This is the config of my Voron 2.4 350mm3 Serial:V2.660
