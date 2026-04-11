@@ -710,6 +710,7 @@
 
 ## TypeScript 
 
+- [Abdulazizzn/n8n-enterprise-unlocked](https://github.com/Abdulazizzn/n8n-enterprise-unlocked) - n8n workflow automation platform with all enterprise features unlocked - no license restrictions
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [playcanvas/observer](https://github.com/playcanvas/observer) - TypeScript implementation of the Observer pattern
 - [playcanvas/pcui-graph](https://github.com/playcanvas/pcui-graph) - A PCUI extension for creating node-based graphs
