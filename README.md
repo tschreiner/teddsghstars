@@ -710,6 +710,7 @@
 
 ## TypeScript 
 
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [Abdulazizzn/n8n-enterprise-unlocked](https://github.com/Abdulazizzn/n8n-enterprise-unlocked) - n8n workflow automation platform with all enterprise features unlocked - no license restrictions
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
 - [playcanvas/observer](https://github.com/playcanvas/observer) - TypeScript implementation of the Observer pattern
