@@ -307,7 +307,7 @@
 ## Others 
 
 - [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
-- [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
+- [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [paulgolter/blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
