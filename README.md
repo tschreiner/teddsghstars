@@ -602,7 +602,7 @@
 - [CodethinkLabs/ansible-hpe-cw7](https://github.com/CodethinkLabs/ansible-hpe-cw7) - Repository contains files required to support HPE Aruba Comware7 platforms in Ansible. Requires pyhpecw7 python library.
 - [ffly90/napalm-flexfabric](https://github.com/ffly90/napalm-flexfabric) - NAPALM driver for HPE FlexFabric hardware with Comware OS
 - [napalm-automation-community/napalm-h3c-cw7-ssh](https://github.com/napalm-automation-community/napalm-h3c-cw7-ssh) - NAPALM driver for H3C Comware V7, over SSH
-- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.
+- [ChristianLempa/boilerplates](https://github.com/ChristianLempa/boilerplates) - Create reusable templates and turn them into configurable workloads for homelabs and self-hosted infrastructure. Free and Open-Source.
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [ipspace/ansible-examples](https://github.com/ipspace/ansible-examples) - Ansible Examples
 - [xod442/pyhpeezmerel](https://github.com/xod442/pyhpeezmerel) - Python binding for HPE Ezmerel Rest API
