@@ -221,6 +221,8 @@
 
 ## JavaScript 
 
+- [hassanmsthf11/AI-Telegram-Translator-Extention](https://github.com/hassanmsthf11/AI-Telegram-Translator-Extention) - A powerful Chrome Extension for real-time AI translation on Telegram Web, supporting multiple services.
+- [hiflybo/Instagram_Private_Api_Ios](https://github.com/hiflybo/Instagram_Private_Api_Ios) - Instagram Private Api Ios V397.1
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [homebridge-plugins/homebridge-govee](https://github.com/homebridge-plugins/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
@@ -306,6 +308,7 @@
 
 ## Others 
 
+- [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 - [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
 - [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
@@ -432,6 +435,9 @@
 
 ## Python 
 
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
+- [ldtsystem2020/Instagram_API](https://github.com/ldtsystem2020/Instagram_API) - Instagram Private API - Python client reverse-engineered from Android app traffic. 70+ endpoints, 25 typed models.
+- [subzeroid/aiograpi](https://github.com/subzeroid/aiograpi) - ⚡ Asynchronous Python library for Instagram Private API 2026
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [frap129/qidi_auto_z_offset](https://github.com/frap129/qidi_auto_z_offset) - Auto Z-Offset Calibration for the QIDI Q1 Pro
 - [Annex-Engineering/TradRack](https://github.com/Annex-Engineering/TradRack) - A MMU system developed by ANNEX Engineering
