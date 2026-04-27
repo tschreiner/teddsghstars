@@ -670,6 +670,7 @@
 
 ## django 
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
@@ -995,6 +996,7 @@
 
 ## instagram 
 
+- [instagram4j/instagram4j](https://github.com/instagram4j/instagram4j) - An object-oriented reverse engineered Instagram Private API in Java. Build bots, scrap data, create Instagram apps, and a lot more in very few lines of code
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [subzeroid/aiograpi](https://github.com/subzeroid/aiograpi) - ⚡ Asynchronous Python library for Instagram Private API 2026
 
@@ -1684,6 +1686,7 @@
 
 ## python 
 
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
 - [fapfaff/appwashpy](https://github.com/fapfaff/appwashpy) - 
 - [su2code/SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
