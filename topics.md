@@ -1123,6 +1123,7 @@
 
 ## linux 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [AvaloniaUI/Avalonia](https://github.com/AvaloniaUI/Avalonia) - Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
@@ -1338,6 +1339,7 @@
 
 ## others 
 
+- [okcar-os/android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
 - [Danny-Dasilva/cycletls_python](https://github.com/Danny-Dasilva/cycletls_python) - 
 - [hiflybo/Instagram_Private_Api_Ios](https://github.com/hiflybo/Instagram_Private_Api_Ios) - Instagram Private Api Ios V397.1
 - [ldtsystem2020/Instagram_API](https://github.com/ldtsystem2020/Instagram_API) - Instagram Private API - Python client reverse-engineered from Android app traffic. 70+ endpoints, 25 typed models.
@@ -1888,6 +1890,7 @@
 
 ## security 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [SkipToTheEndpoint/OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
 - [wifiphisher/wifiphisher](https://github.com/wifiphisher/wifiphisher) - The Rogue Access Point Framework
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
@@ -1917,6 +1920,7 @@
 
 ## server 
 
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 ## shell 
