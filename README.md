@@ -309,6 +309,8 @@
 
 ## Others 
 
+- [okcar-os/android](https://github.com/okcar-os/android) - An open-source system designed for in-car entertainment. Use the CarPlay protocol to enable audio and video transmission between an Android smartphone and in-car entertainment.
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools) - List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
 - [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
 - [dair-ai/AI-Papers-of-the-Week](https://github.com/dair-ai/AI-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
