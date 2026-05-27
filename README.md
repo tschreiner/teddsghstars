@@ -442,6 +442,7 @@
 - [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [ldtsystem2020/Instagram_API](https://github.com/ldtsystem2020/Instagram_API) - Instagram Private API - Python client reverse-engineered from Android app traffic. 70+ endpoints, 25 typed models.
 - [subzeroid/aiograpi](https://github.com/subzeroid/aiograpi) - ⚡ Asynchronous Python library for Instagram Private API 2026
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [frap129/qidi_auto_z_offset](https://github.com/frap129/qidi_auto_z_offset) - Auto Z-Offset Calibration for the QIDI Q1 Pro
 - [Annex-Engineering/TradRack](https://github.com/Annex-Engineering/TradRack) - A MMU system developed by ANNEX Engineering
@@ -679,7 +680,6 @@
 
 ## Shell 
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [zellneralex/klipper_config](https://github.com/zellneralex/klipper_config) - This is the config of my Voron 2.4 350mm3 Serial:V2.660
 - [frap129/OpenQ1](https://github.com/frap129/OpenQ1) - Custom Firmware for the QIDI Q1 Pro
 - [i-doit/knowledge-base](https://github.com/i-doit/knowledge-base) - i-doit docs
