@@ -205,7 +205,7 @@
 - [syndesisio/syndesis](https://github.com/syndesisio/syndesis) - This project is archived. A flexible, customizable, open source platform that provides core integration capabilities as a service.
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [youtube/api-samples](https://github.com/youtube/api-samples) - Code samples for YouTube APIs, including the YouTube Data API, YouTube Analytics API, and YouTube Live Streaming API. The repo contains language-specific directories that contain the samples.
-- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
+- [mock-server/mockserver-monorepo](https://github.com/mock-server/mockserver-monorepo) - MockServer is an HTTP(S) mock server and proxy for testing that lets you mock APIs, inspect and modify live traffic, and inject failures. It supports HTTP/1.1, HTTP/2, gRPC, WebSockets, TCP and more o
 - [Fidentis/Analyst](https://github.com/Fidentis/Analyst) - Fidentis Analyst a target-orientated user-friendly computer interface for processing 3D meshes of human faces. The program enables a variety of 3D facial morphological analyses designed for forensic p
 - [alibaba/COLA](https://github.com/alibaba/COLA) - 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [OrienteerBAP/Orienteer](https://github.com/OrienteerBAP/Orienteer) - Business Application Platform - no-code/low-code platform to build business applications
