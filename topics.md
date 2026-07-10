@@ -223,6 +223,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xamarin](#xamarin)
 - [xml](#xml)
 - [zsh](#zsh)
@@ -2149,6 +2150,18 @@
 ## wordpress 
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+
+## workflow 
+
+- [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [StephenOTT/OpenC2-Orchestrator](https://github.com/StephenOTT/OpenC2-Orchestrator) - OpenC2 Orchestrator backed by BPMN
+- [sartography/SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) - A powerful workflow engine implemented in pure Python
+- [open-rpa/openrpa](https://github.com/open-rpa/openrpa) - Free Open Source Enterprise Grade RPA
+- [camunda/camunda-bpm-platform](https://github.com/camunda/camunda-bpm-platform) - Camunda 7 CE is End of Life (EoL). Please check out Camunda 8 instead (https://github.com/camunda/camunda) or read about Camunda 7 Enterprise End of Life (https://camunda.com/blog/2025/02/camunda-7-en
+- [camunda/docker-camunda-bpm-platform](https://github.com/camunda/docker-camunda-bpm-platform) - Camunda 7 - Docker images for the Camunda BPM platform
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 
 ## xamarin 
 
