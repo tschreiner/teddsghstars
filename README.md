@@ -396,7 +396,7 @@
 - [oroinc/crm](https://github.com/oroinc/crm) - Main OroCRM package with core functionality.
 - [pagekit/pagekit](https://github.com/pagekit/pagekit) - Pagekit CMS
 - [invoiceninja/invoiceninja](https://github.com/invoiceninja/invoiceninja) - A source-available invoice, quote, project and time-tracking app built with Laravel
-- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open-source, self-hosted status page system.
+- [cachethq/cachet](https://github.com/cachethq/cachet) - 🚦 Cachet, the open source, self-hosted status page system.
 - [octobercms/october](https://github.com/octobercms/october) - Self-hosted CMS platform based on the Laravel PHP Framework.
 - [getgrav/grav](https://github.com/getgrav/grav) - Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony
 
@@ -443,7 +443,9 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [Danny-Dasilva/cycletls_python](https://github.com/Danny-Dasilva/cycletls_python) - 
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument) - 🚴 Call stack profiler for Python. Shows you why your code is slow!
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [ldtsystem2020/Instagram_API](https://github.com/ldtsystem2020/Instagram_API) - Instagram Private API - Python client reverse-engineered from Android app traffic. 70+ endpoints, 25 typed models.
+- [subzeroid/aiograpi](https://github.com/subzeroid/aiograpi) - ⚡ Asynchronous Python library for Instagram Private API 2026
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [frap129/qidi_auto_z_offset](https://github.com/frap129/qidi_auto_z_offset) - Auto Z-Offset Calibration for the QIDI Q1 Pro
