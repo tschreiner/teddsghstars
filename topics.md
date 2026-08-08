@@ -38,6 +38,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -510,6 +511,10 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## claude-code 
+
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
+
+## claude-skills 
 
 - [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
 
