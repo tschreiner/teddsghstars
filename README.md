@@ -593,7 +593,7 @@
 - [daili0015/ModelFeast](https://github.com/daili0015/ModelFeast) - Pytorch model zoo for human, include all kinds of 2D CNN, 3D CNN, and CRNN
 - [sw-gong/coma](https://github.com/sw-gong/coma) - Pytorch reproduction of the paper "Generating 3D faces using Convolutional Mesh Autoencoders (CoMA)" (ECCV 2018)
 - [zetane/viewer](https://github.com/zetane/viewer) - ML models and internal tensors 3D visualizer
-- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - K3D lets you create 3D plots backed by WebGL with high-level API (surfaces, isosurfaces, voxels, mesh, cloud points, vtk objects, volume renderer, colormaps, etc). The primary aim of K3D-jupyter is to
+- [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.
 - [google-deepmind/surface-distance](https://github.com/google-deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
 - [mrizwan18/Face3D-API](https://github.com/mrizwan18/Face3D-API) - API to send .jpg portrait and obtain .obj face mesh
 - [Outsiders17711/streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
