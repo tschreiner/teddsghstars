@@ -202,6 +202,8 @@
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [svelte](#svelte)
+- [swift](#swift)
+- [swiftui](#swiftui)
 - [symfony](#symfony)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
@@ -1385,7 +1387,6 @@
 - [frap129/OpenQ1](https://github.com/frap129/OpenQ1) - Custom Firmware for the QIDI Q1 Pro
 - [Annex-Engineering/TradRack](https://github.com/Annex-Engineering/TradRack) - A MMU system developed by ANNEX Engineering
 - [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Neth
-- [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
 - [ThomasPrior/LenovoSmartClock2](https://github.com/ThomasPrior/LenovoSmartClock2) - Root and configure a Lenovo Smart Clock 2 for use as a smart home display
 - [sparxsys/ScriptRunner-Scripts](https://github.com/sparxsys/ScriptRunner-Scripts) - Groovy scripts to make your life easier when working on Atlassian tools
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
@@ -2004,6 +2005,14 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+## swift 
+
+- [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - Self-service, device health and compliance for managed Macs. Works with Munki, Jamf Pro, Intune and Fleet.
+
+## swiftui 
+
+- [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - Self-service, device health and compliance for managed Macs. Works with Munki, Jamf Pro, Intune and Fleet.
 
 ## symfony 
 
