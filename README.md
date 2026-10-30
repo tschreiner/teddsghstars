@@ -644,7 +644,6 @@
 - [JasonSatti/Create_AD_User](https://github.com/JasonSatti/Create_AD_User) - Connect to AD domain and create new user entry
 - [VicentGJ/AD-webmanager](https://github.com/VicentGJ/AD-webmanager) - A web interface for administration of Active Directory Domains, made in Python, with focus on easy of use and simplicity.
 - [Aksoylu/GoldenFace](https://github.com/Aksoylu/GoldenFace) - An Image Processing Library About Calculating Face Golden Ratio, Facial Cosine Similarity and More
-- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [napalm-automation-community/napalm-vyos](https://github.com/napalm-automation-community/napalm-vyos) - NAPALM Driver for the VyOS
 - [iDebugAll/nextbox-ui-plugin](https://github.com/iDebugAll/nextbox-ui-plugin) - Next-Gen Topology Visualization Plugin for NetBox Powered by topoSphere SDK
 - [PacktPublishing/Automate-it](https://github.com/PacktPublishing/Automate-it) - Code repository for Automate it!, published by Packt
@@ -756,6 +755,7 @@
 - [amplication/amplication](https://github.com/amplication/amplication) - Amplication brings order to the chaos of large-scale software development by creating Golden Paths for developers - streamlined workflows that drive consistency, enable high-quality code practices, si
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [genieacs/genieacs](https://github.com/genieacs/genieacs) - A fast and lightweight TR-069 Auto Configuration Server (ACS)
 
