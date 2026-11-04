@@ -601,7 +601,7 @@
 - [K3D-tools/K3D-jupyter](https://github.com/K3D-tools/K3D-jupyter) - WebGL 3D plotting for Jupyter: meshes, isosurfaces, volumes, voxels and point clouds from NumPy arrays, with a path-traced cinematic renderer.
 - [google-deepmind/surface-distance](https://github.com/google-deepmind/surface-distance) - Library to compute surface distance based performance metrics for segmentation tasks.
 - [mrizwan18/Face3D-API](https://github.com/mrizwan18/Face3D-API) - API to send .jpg portrait and obtain .obj face mesh
-- [Outsiders17711/streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
+- [Outsiders17711/Streamlit-Mediapipe-WebApp](https://github.com/Outsiders17711/Streamlit-Mediapipe-WebApp) - A Streamlit GUI for exploring the functionality of some of Google's Mediapipe Machine Learning solutions, viz: Hand Tracking; Pose Estimation; Face Detection; and Face Mesh.
 - [FynnAschmoneit/nonOrthogonalityCheckSalome](https://github.com/FynnAschmoneit/nonOrthogonalityCheckSalome) - A python class to be included in Salome meshing scripts for detection of non-orthogonal and skew faces.
 - [TimoBolkart/mesh](https://github.com/TimoBolkart/mesh) - MPI-IS Mesh Processing Library
 - [TimoBolkart/TF_FLAME](https://github.com/TimoBolkart/TF_FLAME) - Tensorflow framework for the FLAME 3D head model. The code demonstrates how to sample 3D heads from the model, fit the model to 2D or 3D keypoints, and how to generate textured head meshes from Images
