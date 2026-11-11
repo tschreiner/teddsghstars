@@ -324,7 +324,7 @@
 - [dair-ai/Mathematics-for-ML](https://github.com/dair-ai/Mathematics-for-ML) - 🧮  A collection of resources to learn mathematics for machine learning
 - [timzhang642/3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) - A resource repository for 3D machine learning
 - [paulgolter/blender-pipeline-integration](https://github.com/paulgolter/blender-pipeline-integration) - Shared knowledge base to get people started integrating Blender in a production environment
-- [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of awesome DICOM resources and libraries.
+- [open-dicom/awesome-dicom](https://github.com/open-dicom/awesome-dicom) - A curated list of DICOM libraries, viewers, PACS servers, converters, anonymizers, datasets and learning resources.
 - [TimoBolkart/FLAME-Universe](https://github.com/TimoBolkart/FLAME-Universe) - Summary of publicly available ressources such as code, datasets, and scientific papers for the FLAME 3D head model
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [jamesonl/awesome-pydantic](https://github.com/jamesonl/awesome-pydantic) - A curated list of awesome things related to Pydantic! 🌪️
