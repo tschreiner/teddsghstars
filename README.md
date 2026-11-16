@@ -232,7 +232,7 @@
 - [hiflybo/Instagram_Private_Api_Ios](https://github.com/hiflybo/Instagram_Private_Api_Ios) - Instagram Private Api Ios V397.1
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [homebridge-plugins/homebridge-govee](https://github.com/homebridge-plugins/homebridge-govee) - Homebridge plugin to integrate Govee devices into HomeKit.
-- [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+- [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [aliyun/data-mapping-component](https://github.com/aliyun/data-mapping-component) - A React Component which focus on Data-Mapping & Table-Field-Mapping.(基于React的数据/表字段映射组件)
 - [Nepose/MAG_Software_Portal](https://github.com/Nepose/MAG_Software_Portal) - Improved operator utilities to make firmware and embedded application for Infomir IPTV STBs.
@@ -611,7 +611,7 @@
 - [dave3d/dicom2stl](https://github.com/dave3d/dicom2stl) - Python script to extract a STL surface from a DICOM image series.
 - [cogitas3d/OrtogOnBlender](https://github.com/cogitas3d/OrtogOnBlender) - Addon para o planejamento de cirurgia ortognática digital
 - [ansible/ansible-runner](https://github.com/ansible/ansible-runner) - A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python modul
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2) - The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV 2020.
 - [dgarros/netdevops-survey](https://github.com/dgarros/netdevops-survey) - The goal of this survey is to collect information to understand how network operators and engineers are using automation to operate their network today.
 - [socialwifi/jsonapi-requests](https://github.com/socialwifi/jsonapi-requests) - Python client implementation for json api. http://jsonapi.org/
