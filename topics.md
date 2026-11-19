@@ -207,6 +207,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
+- [static-site-generator](#static-site-generator)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -281,7 +282,7 @@
 ## ai 
 
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) - VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [hassanmsthf11/AI-Telegram-Translator-Extention](https://github.com/hassanmsthf11/AI-Telegram-Translator-Extention) - A powerful Chrome Extension for real-time AI translation on Telegram Web, supporting multiple services.
@@ -309,7 +310,7 @@
 
 ## ai-agents 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -353,7 +354,7 @@
 
 ## animation 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 
 ## ansible 
@@ -554,7 +555,7 @@
 ## claude-code 
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) - Human + AI music production workflow for Suno - skills, templates, and tools
 
 ## claude-skills 
@@ -854,7 +855,7 @@
 
 ## framework 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [abpframework/abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra
 - [symfony/symfony](https://github.com/symfony/symfony) - The Symfony PHP framework
@@ -1052,7 +1053,7 @@
 
 ## html 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [jsonresume/resume-website](https://github.com/jsonresume/resume-website) - Website for JSON Resume. 🏡 DEPRECATED - SEE MONO
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
@@ -1288,7 +1289,7 @@
 
 ## mcp 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [KLR-Pattern/pydantic-resolve](https://github.com/KLR-Pattern/pydantic-resolve) - pydantic-resolve is a progressive data assembly framework which follows the stye of clean architecture
@@ -1678,7 +1679,6 @@
 - [MSEndpointMgr/ConfigMgr](https://github.com/MSEndpointMgr/ConfigMgr) - Microsoft Endpoint Configuration Manager scripts and tools
 - [dsccommunity/dsccommunity.org](https://github.com/dsccommunity/dsccommunity.org) - DSC community organisation's website
 - [PacktPublishing/Automate-it](https://github.com/PacktPublishing/Automate-it) - Code repository for Automate it!, published by Packt
-- [deprecated-packages/statie](https://github.com/deprecated-packages/statie) - [DEPRECATED] [READ-ONLY] Use Symfony plugin instead →
 - [0vercl0k/rp](https://github.com/0vercl0k/rp) - rp++ is a fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries.
 - [mattjbarlow/ansible-directory](https://github.com/mattjbarlow/ansible-directory) - A skeleton Ansible Directory
 - [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
@@ -2051,6 +2051,11 @@
 - [OpenMontageInc/OpenMontage](https://github.com/OpenMontageInc/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 
+## static-site-generator 
+
+- [deprecated-packages/statie](https://github.com/deprecated-packages/statie) - [DEPRECATED] [READ-ONLY] Use Symfony plugin instead →
+- [lektor/lektor](https://github.com/lektor/lektor) - The lektor static file content management system
+
 ## svelte 
 
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2139,7 +2144,7 @@
 
 ## typescript 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
 - [elie222/inbox-zero](https://github.com/elie222/inbox-zero) - The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [playcanvas/engine](https://github.com/playcanvas/engine) - Open-source web graphics engine built on WebGPU and WebGL2
 - [playcanvas/editor](https://github.com/playcanvas/editor) - Browser-based visual editor for building WebGL, WebGPU, WebXR apps
