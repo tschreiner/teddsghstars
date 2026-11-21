@@ -53,7 +53,6 @@
 ## Astro 
 
 - [tschreiner/tschreiner.github.io](https://github.com/tschreiner/tschreiner.github.io) - This is my personal website
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 
 ## Batchfile 
 
@@ -762,6 +761,7 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [calcom/cal.diy](https://github.com/calcom/cal.diy) - Scheduling infrastructure for absolutely everyone.
 - [genieacs/genieacs](https://github.com/genieacs/genieacs) - A fast and lightweight TR-069 Auto Configuration Server (ACS)
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 
 ## Visual Basic .NET 
 
