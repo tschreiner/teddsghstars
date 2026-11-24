@@ -185,7 +185,7 @@
 
 ## HTML 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [CodyMQ/threejs-3d-room-designer](https://github.com/CodyMQ/threejs-3d-room-designer) - React.js + Three.js 3d room planner & product configurator(bundled version)
 - [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the e
 - [CaptTofu/patg.net](https://github.com/CaptTofu/patg.net) - Patg.net website
@@ -250,6 +250,7 @@
 - [UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool) - Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
+- [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [nextcloud/bookmarks](https://github.com/nextcloud/bookmarks) - 🔖 Bookmark app for Nextcloud
 - [joshuatz/linkedin-to-jsonresume](https://github.com/joshuatz/linkedin-to-jsonresume) - Browser extension to turn a LinkedIn profile page into a JSON Resume export.
 - [davcd/jsonresume-theme-actual](https://github.com/davcd/jsonresume-theme-actual) - Actual theme for JSON Resume standard. Minimalist and modern resumes!
@@ -388,7 +389,6 @@
 - [hanneskod/classtools](https://github.com/hanneskod/classtools) - Find, extract and process php classes from the file system
 - [i-doit/api-client-php](https://github.com/i-doit/api-client-php) - Easy-to-use, but feature-rich client library for i-doit's JSON-RPC API
 - [bheisig/i-doit-cli](https://github.com/bheisig/i-doit-cli) - Access your CMDB on the command line interface
-- [LDAPAccountManager/lam](https://github.com/LDAPAccountManager/lam) - LDAP Account Manager
 - [wheelybird/luminary](https://github.com/wheelybird/luminary) - A PHP web-based interface for LDAP user account management and self-service password change.
 - [Kovah/LinkAce](https://github.com/Kovah/LinkAce) - LinkAce is a self-hosted archive to collect links of your favorite websites.
 - [pluginsGLPI/sccm](https://github.com/pluginsGLPI/sccm) - Microsoft System Center Configuration Manager
