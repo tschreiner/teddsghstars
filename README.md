@@ -63,7 +63,7 @@
 
 ## C 
 
-- [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 PyAudio | PortAudio fork with WASAPI loopback support 🔊 Record audio from speakers on Windows
+- [s0d3s/PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) - 🐍 Windows WASAPI loopback fork of PyAudio/PortAudio enabling zero-cable speaker output recording in Python
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [CheckPointSW/cpmonitor](https://github.com/CheckPointSW/cpmonitor) - CPMonitor is a utility targeted to analyze traffic captured by tcpdump (www.tcpdump.org) / snoop (http://snoopwpf.codeplex.com/).
 - [rtbrick/bngblaster](https://github.com/rtbrick/bngblaster) - The Routing Protocol and BNG Blaster is an open-source network tester for routing and access protocols.
